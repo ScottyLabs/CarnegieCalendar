@@ -1,0 +1,106 @@
+{
+    "All":
+    {
+        "Academics":
+        {
+            "Schools":
+            {
+                "SCS":
+                {
+                    "Computational Biology":"http://www.cbd.cmu.edu/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true",
+                    "HCII":"https://hcii.cmu.edu/news/calendar/ical/calendar.ics",
+                    "ML": "https://tockify.com/api/feeds/ics/cmu.mld",
+                    "RI": "https://www.ri.cmu.edu/events/?ical=1",
+                    "CS": "https://www.cs.cmu.edu/calendar/export.ics"
+                },
+                "MCS":
+                {
+                    "Mathematics":"https://timelyapp.time.ly/api/calendars/54703220/export?format=ics&categories=677430531&filter_groups=677430583&timely_id=timely_0.3689341916690556",
+                    "Physics":"https://timelyapp.time.ly/api/calendars/54703220/export?format=ics&categories=677430534&timely_id=timely_0.39786058117271694",
+                    "Chemistry":"https://timelyapp.time.ly/api/calendars/54703220/export?format=ics&categories=677430532&filter_groups=677430583&timely_id=timely_0.14297524898164982",
+                    "Biology": "https://timelyapp.time.ly/api/calendars/54703220/export?format=ics&categories=677430533&filter_groups=677430583&timely_id=timely_0.13951306083680404"
+                },
+                "CFA":
+                {
+                    "Drama":"http://drama.cmu.edu/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true&ai1ec_cat_ids=218",
+                    "Architecture": 
+                    [
+                        "https://calendar.google.com/calendar/ical/soa-public%40andrew.cmu.edu/public/basic.ics", 
+                        "https://calendar.google.com/calendar/ical/soa-faculty%40andrew.cmu.edu/public/basic.ics",
+                        "https://calendar.google.com/calendar/ical/soa-students%40andrew.cmu.edu/public/basic.ics"
+                    ],
+                    "Music": "https://events.time.ly/vdibqnd/export?format=ics"
+                },
+                "Dietrich":
+                {
+                    "English": "https://calendar.google.com/calendar/ical/cmuenglish.events%40gmail.com/public/basic.ics",
+                    "Statistics and Data Science":"https://calendar.google.com/calendar/ical/s1j4gise63gmko8hahi0hq6gh4%40group.calendar.google.com/public/basic.ics",
+                    "Psychology": "https://calendar.google.com/calendar/ical/49jqhf1r1lhmpalcro5gds4cq8@group.calendar.google.com/public/basic.ics",
+                    "CNBC": "https://calendar.google.com/calendar/ical/oj4bkj3oulrgismispejvvq0q8@group.calendar.google.com/public/basic.ics",
+                    "Philosophy": "https://calendar.google.com/calendar/ical/01l1t6sb5tbaqi66bg8b19k37o%40group.calendar.google.com/public/basic.ics",
+                    "Institute for politics and strategy": "https://calendar.google.com/calendar/ical/cmuips%40andrew.cmu.edu/public/basic.ics",
+                    "History": 
+                    [
+                        "https://calendar.google.com/calendar/ical/cmu.history%40gmail.com/public/basic.ics",
+                        "https://calendar.google.com/calendar/ical/n42ba22iiu02508n0h7hnreabk%40group.calendar.google.com/public/basic.ics"
+                    ],
+                    "Dietrich": "https://calendar.google.com/calendar/ical/t6ebuir6klabea3q87b5qjs360@group.calendar.google.com/public/basic.ics"
+                },
+                "Tepper":
+                {
+                    
+                },
+                "CIT":
+                {
+                    
+                },
+                "Heinz":
+                {
+                    "Mobility21/Traffic21": "https://mobility21.cmu.edu/events/?ical=1&tribe_display=month"
+                }
+            },
+            "IDeATE":"https://calendar.google.com/calendar/ical/ideate.cmu@gmail.com/public/basic.ics"
+        },
+        "Club":
+        {
+            "Bridge":"https://thebridge.cmu.edu/events.ics",
+            "BME society":"https://calendar.google.com/calendar/ical/carnegiemellonbmes%40gmail.com/public/basic.ics",
+            "Scottylabs":"https://calendar.google.com/calendar/ical/cmu.scottylabs@gmail.com/public/basic.ics",
+            "Student Government":"https://calendar.google.com/calendar/ical/utd7jhfrl48p37jth64hue0lis%40group.calendar.google.com/public/basic.ics",
+            "Studio for creative inquiry":"https://calendar.google.com/calendar/ical/studioforcreativeinquiry%40gmail.com/public/basic.ics",
+            "Anvil":"https://calendar.google.com/calendar/ical/andrew.cmu.edu_j1rdb53mqfj67ch9477hcpl2s8%40group.calendar.google.com/public/basic.ics",
+            "MoneyThink":"https://calendar.google.com/calendar/ical/andrew.cmu.edu_j1rdb53mqfj67ch9477hcpl2s8%40group.calendar.google.com/public/basic.ics",
+            "CMU Computer Club":"https://calendar.google.com/calendar/ical/hrhf352iju0ji55vj827dbu2fk@group.calendar.google.com/public/basic.ics",
+            "Eta Kappa Nu":"https://calendar.google.com/calendar/ical/andrew.cmu.edu_ot9dhr61gp27kqlsb96mlabkjc%40group.calendar.google.com/public/basic.ics",
+            "Tau Beta Pi":"https://calendar.google.com/calendar/ical/eifn0motia6k9qv22g9b2cc4dk%40group.calendar.google.com/public/basic.ics",
+            "IEEE":"https://calendar.google.com/calendar/ical/andrew.cmu.edu_e67sdhltdrfbcck8u28fui745o%40group.calendar.google.com/public/basic.ics",
+            "CMU society of Hispanic Engineers":"https://calendar.google.com/calendar/ical/cmu.shpe%40gmail.com/public/basic.ics",
+            "Roboclub": "https://calendar.google.com/calendar/ical/85bf0h78fidsgkkgmkktrqasm8@group.calendar.google.com/public/basic.ics",
+            "C++ singing":"https://calendar.google.com/calendar/ical/efrdv449m13u8atk9fl8hhv8o4@group.calendar.google.com/public/basic.ics"
+        },
+        "Recreation":
+        {
+            "Carngeie Mellon Tickets":"https://carnegiemellontickets.universitytickets.com/w/calendar.aspx",
+            "Student Affairs": "https://tockify.com/api/feeds/ics/carnegie.mellon.student.affairs"
+        },
+        "Labs":
+        {
+            "Scott Energy":"https://calendar.google.com/calendar/ical/86cvp8rs4pbcnfvc8t4v7ku05o@group.calendar.google.com/public/basic.ics",
+            "Techspark":"https://calendar.google.com/calendar/ical/bm3mt8r4784bi563b1jg4tgijo@group.calendar.google.com/public/basic.ics"            
+        },
+        "Miscellaneous": "https://calendar.google.com/calendar/ical/bsl9um0icm15p91qfs6f130o28%40group.calendar.google.com/private-ba4910384454db5dea7f348da1870c41/basic.ics",
+        "Insitutions":
+        {
+            "Living Analytics Research Center": "https://www.trumba.com/calendars/SMU_LARC.ics?filterview=Publish+to+NextWeb&filter4=_798882_&filterfield4=37908",
+            "Intercultural Communication Center": "https://tockify.com/api/feeds/ics/student.success",
+            "Swartz center":"https://tockify.com/api/feeds/ics/swartzcalendar",
+            "Gelfand center":"https://calendar.google.com/calendar/ical/leonard.gelfand.center@gmail.com/public/basic.ics",
+            "Entertainment tech center":
+            {
+                "Pittsburgh General": "https://calendar.google.com/calendar/ical/cmu.etc.pgh.events%40gmail.com/public/basic.ics",
+                "Seminars":"https://calendar.google.com/calendar/ical/o67cde9racfa9ss5vcvafvokss%40group.calendar.google.com/public/basic.ics"
+            },
+            "Center for arts in society":"https://calendar.google.com/calendar/ical/ehilrdcr39kf3p7lrtnck0vvs8@group.calendar.google.com/public/basic.ics"
+        }
+    }
+}
