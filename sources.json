@@ -7,8 +7,8 @@
             {
                 "SCS":
                 {
-                    "Computational Biology":"http://www.cbd.cmu.edu/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true",
-                    "HCII":"https://hcii.cmu.edu/news/calendar/ical/calendar.ics",
+                    "Computational Biology": "http://www.cbd.cmu.edu/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true",
+                    "HCII": "https://hcii.cmu.edu/news/calendar/ical/calendar.ics",
                     "ML": "https://tockify.com/api/feeds/ics/cmu.mld",
                     "RI": "https://www.ri.cmu.edu/events/?ical=1",
                     "CS": "https://www.cs.cmu.edu/calendar/export.ics"
@@ -46,10 +46,7 @@
                     ],
                     "Dietrich": "https://calendar.google.com/calendar/ical/t6ebuir6klabea3q87b5qjs360@group.calendar.google.com/public/basic.ics"
                 },
-                "Tepper":
-                {
-                    
-                },
+                "Tepper": "https://tockify.com/api/feeds/ics/tepper",
                 "CIT":
                 {
                     
