@@ -29,12 +29,6 @@ function App() {
     zIndex: 100
   }
 
-  let eventStyle = {
-    backgroundColor: '#8B0000',
-    height: 100,
-    marginBottom: 200
-  }
-
   return (
     <div className="App" style={{positive:"relative", minHeight:"100vh"}}>
       <Grid.Row style={navStyle}>

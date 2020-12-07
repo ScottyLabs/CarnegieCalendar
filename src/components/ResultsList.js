@@ -7,7 +7,7 @@ export default function ResultsList (props) {
   let count = 0
 
   return (
-    <Card.Group itemsPerRow={4} stackable={true}>
+    <Card.Group itemsPerRow={2} stackable style={{width: '80%'}}>
       {props.events.map(event => {
         event = <ResultCard event={event} key={count} />
         count += 1

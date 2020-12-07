@@ -24,6 +24,7 @@ export default function SearchBox (props) {
     }
 
     let api_url = `${API_URL}/search?search_str=${searchQuery}&start_time=${start}&end_time=${end}`;
+    
     fetch(api_url)
       .then(response => response.json())
       .then(data => {

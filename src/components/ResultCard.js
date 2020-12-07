@@ -21,9 +21,9 @@ export default function ResultCard (props) {
 
   const dateRange = `${startDay} ${startTime} - ${startDay === endDay ? '' : endDay + ' '}${endTime}`
 
-  const maxDescLength = 100
-  const descStyle = { 'overflow': 'hidden', 'wordBreak': 'break-word' }
-  const linkStyle = { 'overflow': 'hidden', 'whiteSpace': 'nowrap' }
+  const maxDescLength = 200
+  const descStyle = { 'overflow': 'hidden', 'wordBreak': 'break-word', 'textOverflow': 'ellipsis'}
+  const linkStyle = { 'overflow': 'hidden', 'whiteSpace': 'nowrap', 'textOverflow': 'ellipsis', 'paddingTop': 5}
 
   const cardClick = e => {
     if (!e.target.classList.contains('event-href')) {
@@ -33,7 +33,7 @@ export default function ResultCard (props) {
   }
 
   return (
-    <Card fluid style={{marginBottom: 50}} href='#' onClick={cardClick}>
+    <Card style={{marginBottom: 50, backgroundColor: 'snow', height: 240, padding: 10}} href='#' onClick={cardClick}>
       <EventModal description={description}
                   summary={summary}
                   dateRange={dateRange}
@@ -43,8 +43,12 @@ export default function ResultCard (props) {
       <Card.Content>
         <Card.Header>{summary}</Card.Header>
         <Card.Meta>
-          <div className='date'><Icon name="clock"/>{dateRange}</div>
-          {location && <div className='location'><Icon name="map marker"/>{location}</div>}
+          <div className='date' style={{paddingTop:5}}>
+            <Icon name="clock"/>{dateRange}
+          </div>
+          {location && <div className='location' style={{paddingTop:5}}>
+            <Icon name="map marker"/>{location}
+          </div>}
           {url && <div className='link' style={linkStyle}>
             <Icon name="paperclip"/>
             <a href={url} rel='noopener noreferrer' target='_blank' className='event-href'>{url}</a>
