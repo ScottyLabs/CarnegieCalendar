@@ -14,7 +14,9 @@ export default function HeaderRegion (props) {
   return (
     <Container text style={{paddingBottom: "5%"}}>
       <Header as="h1" size="huge" style={titleCSS}>Carnegie Calendar</Header>
-      <Header as='h3' style={subtitleCSS}>Your one-stop shop for everything happening at CMU.</Header>
+      <Header as='h3' style={subtitleCSS}>
+        Your one-stop shop for everything happening at CMU.
+      </Header>
     </Container>
   )
 }

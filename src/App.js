@@ -6,6 +6,7 @@ import HeaderRegion from './components/HeaderRegion'
 import ResultsList from './components/ResultsList'
 import SearchBox from './components/SearchBox'
 import Footer from './components/Footer'
+import Loader from './components/Loader'
 
 function App() {
   const [events, setEvents] = useState([])
@@ -45,9 +46,8 @@ function App() {
             <SearchBox setEvents={setEvents} setIsLoading={setIsLoading}/>
           </Grid.Row>
 
-          {/* TO-DO: change loading component */}
           <Grid.Row style={{paddingTop:50}}>
-            {isLoading ? <p>Loading...</p> : <ResultsList events={events} />}
+            {isLoading ? <Loader/> : <ResultsList events={events} />}
           </Grid.Row>
         </Grid>
       </Container>

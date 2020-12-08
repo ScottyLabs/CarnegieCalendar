@@ -21,9 +21,33 @@ export default function ResultCard (props) {
 
   const dateRange = `${startDay} ${startTime} - ${startDay === endDay ? '' : endDay + ' '}${endTime}`
 
-  const maxDescLength = 200
-  const descStyle = { 'overflow': 'hidden', 'wordBreak': 'break-word', 'textOverflow': 'ellipsis'}
-  const linkStyle = { 'overflow': 'hidden', 'whiteSpace': 'nowrap', 'textOverflow': 'ellipsis', 'paddingTop': 5}
+  const cardStyle = {
+    marginBottom: 50, 
+    backgroundColor: 'snow', 
+    height: 260, 
+    padding: 10,
+  }
+
+  const headStyle = { 
+    lineHeight: '1.5em', 
+    maxHeight: '4.5em', 
+    overflow: 'hidden', 
+    whiteSpace: 'normal', 
+    textOverflow: 'ellipsis'
+  }
+
+  const descStyle = { 
+    lineHeight: '1.5em', 
+    height: '4.5em', 
+    overflow: 'hidden', 
+    textOverflow: 'ellipsis',
+  }
+
+  const linkStyle = { 
+    overflow: 'hidden', 
+    whiteSpace: 'nowrap', 
+    textOverflow: 'ellipsis', 
+    paddingTop: 5}
 
   const cardClick = e => {
     if (!e.target.classList.contains('event-href')) {
@@ -33,7 +57,7 @@ export default function ResultCard (props) {
   }
 
   return (
-    <Card style={{marginBottom: 50, backgroundColor: 'snow', height: 240, padding: 10}} href='#' onClick={cardClick}>
+    <Card style={cardStyle} href='#' onClick={cardClick}>
       <EventModal description={description}
                   summary={summary}
                   dateRange={dateRange}
@@ -41,22 +65,26 @@ export default function ResultCard (props) {
                   location={location}
                   open={modalVisible} />
       <Card.Content>
-        <Card.Header>{summary}</Card.Header>
+        <Card.Header style={headStyle}>
+          {summary}
+        </Card.Header>
         <Card.Meta>
-          <div className='date' style={{paddingTop:5}}>
+          <div className='date' style={linkStyle}>
             <Icon name="clock"/>{dateRange}
           </div>
-          {location && <div className='location' style={{paddingTop:5}}>
+          {location && <div className='location' style={linkStyle}>
             <Icon name="map marker"/>{location}
-          </div>}
+          </div> }
           {url && <div className='link' style={linkStyle}>
             <Icon name="paperclip"/>
-            <a href={url} rel='noopener noreferrer' target='_blank' className='event-href'>{url}</a>
-          </div>}
+            <a href={url} rel='noopener noreferrer' target='_blank' 
+             className='event-href'>
+               {url}
+            </a>
+          </div> }
         </Card.Meta>
-        <Card.Description>
-          <p style={descStyle}>{description.length <= maxDescLength ? description
-            : description.substring(0, maxDescLength) + '...'}</p>
+        <Card.Description style={descStyle}>
+          {description}
         </Card.Description>
       </Card.Content>
     </Card>

@@ -3,6 +3,7 @@ import { Form, Input, Button, Icon } from 'semantic-ui-react'
 import { DatesRangeInput } from 'semantic-ui-calendar-react';
 
 const API_URL = process.env["REACT_APP_API_HOST"];
+// const API_URL = "https://apis.scottylabs.org/calendar" # use this when testing
 
 export default function SearchBox (props) {
 
@@ -82,7 +83,8 @@ export default function SearchBox (props) {
 
   // TO-DO: fix date range: either disable keyboard input or make it work normally
   return (
-    <Form onSubmit={handleSubmit} inverted={true} size="big" style={{width: 520, padding: 20}}>
+    <Form onSubmit={handleSubmit} inverted={true} 
+     size="big" style={{width: 520, padding: 20}}>
       <h1 style={labelCSS}>Search</h1>
       <Form.Field
         style={formCSS}

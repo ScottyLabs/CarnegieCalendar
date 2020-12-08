@@ -3,7 +3,6 @@ import ResultCard from './ResultCard'
 import { Card } from 'semantic-ui-react'
 
 export default function ResultsList (props) {
-  const getEventID = event => event.description
   let count = 0
 
   return (
