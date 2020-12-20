@@ -18,7 +18,7 @@ with open('sources.json') as f: data = json.load(f)
 EST = pytz.timezone('America/New_York')
 
 # Make a event ref from example.ics
-g = open('example.ics', 'rb')
+g = open('api/example.ics', 'rb')
 cal = Calendar.from_ical(g.read())
 eventTypeRef = type(cal.walk()[-1])
 
