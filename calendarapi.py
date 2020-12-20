@@ -24,7 +24,6 @@ cors = CORS(app, resources={r"/*": {"origins": "*"}})
 
 DEBUG = False
 FLATPAGES_AUTO_RELOAD = DEBUG
-# export FLASK_ENV=development
 
 forbidden_searches = ['pizza', 'lunch', 'food', 'free', 'swag', 'merch', 'dinner'] # Maybe use these if you commercialize
 
@@ -36,18 +35,6 @@ eventTypeRef = type(cal.walk()[-1])
 TAG_RE = re.compile(r'<[^>]+>')
 def remove_tags(text):
     return TAG_RE.sub('', text)
-
-# def makeICS(eventList, name):
-#     calendar = Calendar()
-#     for event in eventList:
-#         calendar.add_component(event)
-#     calendar.add('prodid', "Carnegie Calendar")
-#     calendar.add('version', '2.0')
-
-#     f = open("generatedcals/" + name + ".ics",'wb+')
-
-#     f.write(calendar.to_ical())
-#     f.close()
 
 # Used in the renderer to make a nice "January 7, 2020" text from the datetime object
 def dateconvert(str):

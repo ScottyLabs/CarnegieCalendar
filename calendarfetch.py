@@ -11,6 +11,10 @@ import pymongo
 import settings
 import urllib
 
+"""
+For populating the database with calendar data
+"""
+
 data = {}
 with open('sources.json') as f: data = json.load(f)
 
@@ -18,7 +22,7 @@ with open('sources.json') as f: data = json.load(f)
 EST = pytz.timezone('America/New_York')
 
 # Make a event ref from example.ics
-g = open('api/example.ics', 'rb')
+g = open('example.ics', 'rb')
 cal = Calendar.from_ical(g.read())
 eventTypeRef = type(cal.walk()[-1])
 

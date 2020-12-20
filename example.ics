@@ -1,0 +1,3619 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ScottyLabs
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20151107T213000Z
+DTEND:20151107T223000Z
+DTSTAMP:20200617T200304Z
+UID:63r2drerdhms0djmbilsj4poa4@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t.63r2drerdhms0djmbilsj4poa4
+CLASS:PUBLIC
+CREATED:20151022T195644Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t.63r2drerdhm
+ s0djmbilsj4poa4?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20151114T222257Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Dinner for WDW Participants
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t.63r2drerdhms0djmbilsj4poa4
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151108T183000Z
+DTEND:20151108T200000Z
+DTSTAMP:20200617T200304Z
+UID:6njj1ujcuojo0nkp48jig91uu8@google.com
+CLASS:PUBLIC
+CREATED:20151022T195714Z
+DESCRIPTION:
+LAST-MODIFIED:20151114T222258Z
+LOCATION:Wean 5202 Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WebDevWeekend Session 4
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151202T220000Z
+DTEND:20151202T230000Z
+DTSTAMP:20200617T200304Z
+UID:4t3tnr019t5c772jh5l4806ff8@google.com
+CLASS:PUBLIC
+CREATED:20151022T195146Z
+DESCRIPTION:
+LAST-MODIFIED:20151114T222304Z
+LOCATION:CUC Pake
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Meeting
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151108T200000Z
+DTEND:20151108T213000Z
+DTSTAMP:20200617T200304Z
+UID:cherecgn0245dtrfe8rj48ki3s@google.com
+CLASS:PUBLIC
+CREATED:20151022T195728Z
+DESCRIPTION:
+LAST-MODIFIED:20151114T222306Z
+LOCATION:Wean 5202 Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WebDevWeekend Session 5
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151107T183000Z
+DTEND:20151107T200000Z
+DTSTAMP:20200617T200304Z
+UID:ehupfuoh4rddpca4vaccpsmtbg@google.com
+CLASS:PUBLIC
+CREATED:20151022T195552Z
+DESCRIPTION:
+LAST-MODIFIED:20151114T222310Z
+LOCATION:Wean 5202 Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WebDevWeekend Session 1
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151107T200000Z
+DTEND:20151107T213000Z
+DTSTAMP:20200617T200304Z
+UID:fr9leb6tm6bdjg17rv29b23pig@google.com
+CLASS:PUBLIC
+CREATED:20151022T195612Z
+DESCRIPTION:
+LAST-MODIFIED:20151114T222311Z
+LOCATION:Wean 5202 Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WebDevWeekend Session 2
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151107T223000Z
+DTEND:20151108T000000Z
+DTSTAMP:20200617T200304Z
+UID:c04l7cvfqsc5s5gap7b7asi05k@google.com
+CLASS:PUBLIC
+CREATED:20151022T195634Z
+DESCRIPTION:
+LAST-MODIFIED:20151114T222312Z
+LOCATION:Wean 5202 Cluster
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:WebDevWeekend Session 3
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20151027T153000
+DTEND;TZID=America/New_York:20151027T163000
+RRULE:FREQ=WEEKLY;UNTIL=20151027T035959Z;BYDAY=TU
+DTSTAMP:20200617T200304Z
+UID:g485cfu2thbfsbgol3ik04phvc@google.com
+CREATED:20151025T003937Z
+DESCRIPTION:
+LAST-MODIFIED:20151114T222313Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Course-API Weekly Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20151027T153000
+DTEND;TZID=America/New_York:20151027T163000
+RRULE:FREQ=WEEKLY;UNTIL=20151027T035959Z;BYDAY=TU
+DTSTAMP:20200617T200304Z
+UID:g485cfu2thbfsbgol3ik04phvc_R20151027T193000@google.com
+CREATED:20151025T003937Z
+DESCRIPTION:
+LAST-MODIFIED:20151114T222313Z
+LOCATION:Gates 5 (usually)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Course-API Weekly Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20151027T163000
+DTEND;TZID=America/New_York:20151027T173000
+RRULE:FREQ=WEEKLY;COUNT=2;INTERVAL=1;BYDAY=TU
+DTSTAMP:20200617T200304Z
+UID:srvbenpcnutj93esuglvk5ponc@google.com
+CLASS:PUBLIC
+CREATED:20151025T003937Z
+DESCRIPTION:
+LAST-MODIFIED:20151114T222313Z
+LOCATION:Gates 5 (usually)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Course-API Weekly Meeting
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20151027T180000
+DTEND;TZID=America/New_York:20151027T190000
+RRULE:FREQ=WEEKLY;COUNT=3;INTERVAL=1;BYDAY=TU
+DTSTAMP:20200617T200304Z
+UID:7qqtfb7mec0ftk1crr782bfs8s@google.com
+CLASS:PUBLIC
+CREATED:20151024T083321Z
+DESCRIPTION:
+LAST-MODIFIED:20151114T222314Z
+LOCATION:GHC 3000
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Registration Platform Weekly Meeting
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151031T140000Z
+DTEND:20151031T180000Z
+DTSTAMP:20200617T200304Z
+UID:6ksm4e1lc4sj4b9l6krj8b9k64qj8b9p6th36b9gclj3ee1nc4qj0p346o@google.com
+CLASS:PUBLIC
+CREATED:20151027T220745Z
+DESCRIPTION:
+LAST-MODIFIED:20151114T222316Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spooky Print Hack Session
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151108T000000Z
+DTEND:20151108T033000Z
+DTSTAMP:20200617T200304Z
+UID:64q66dr36op3ab9k6pgm2b9kc8pjebb160om6b9k6gom4ob365j6coj474@google.com
+CLASS:PUBLIC
+CREATED:20151027T230240Z
+DESCRIPTION:
+LAST-MODIFIED:20151114T222317Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Registration Platform Hack Session
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20151101T180000
+DTEND;TZID=America/New_York:20151101T190000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=1;INTERVAL=1;BYDAY=SU
+DTSTAMP:20200617T200304Z
+UID:6so38p3471j62b9j6ks32b9kccp6abb16opjabb46ssjic1j6csm2dhncc@google.com
+CLASS:PUBLIC
+CREATED:20151028T211906Z
+DESCRIPTION:
+LAST-MODIFIED:20151114T222318Z
+LOCATION:Eat Unique
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Meeting
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20151101T170000
+DTEND;TZID=America/New_York:20151101T180000
+DTSTAMP:20200617T200304Z
+UID:6so38p3471j62b9j6ks32b9kccp6abb16opjabb46ssjic1j6csm2dhncc@google.com
+RECURRENCE-ID;TZID=America/New_York:20151101T180000
+CLASS:PUBLIC
+CREATED:20151028T211906Z
+DESCRIPTION:
+LAST-MODIFIED:20151114T222318Z
+LOCATION:Eat Unique
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Meeting
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151106T190000Z
+DTEND:20151106T213000Z
+DTSTAMP:20200617T200304Z
+UID:uliq8t6a9pfh0bfe3t7igi1vo8@google.com
+CLASS:PUBLIC
+CREATED:20151102T204738Z
+DESCRIPTION:
+LAST-MODIFIED:20151114T222320Z
+LOCATION:Morewood Turnaround
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AlphaLab/AlphaLab Gear Tour
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20151108T170000
+DTEND;TZID=America/New_York:20151108T180000
+DTSTAMP:20200617T200304Z
+UID:141F5ACD-31CD-4AD7-8A1F-FC858100FD9E
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t._64q32hhl851k8b9j651k8b9k8523eb9o84okcba68cs3ae1h60o
+ 4ch1p8k
+RECURRENCE-ID;TZID=America/New_York:20151108T190000
+CLASS:PUBLIC
+CREATED:20151028T233313Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t._64q32hhl85
+ 1k8b9j651k8b9k8523eb9o84okcba68cs3ae1h60o4ch1p8k?hs=121\n-::~:~::~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20151116T201118Z
+LOCATION:Eat Unique
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Meeting
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t._64q32hhl851k8b9j651k8b9k8523eb9o84okcba68cs3ae1h60o4ch1
+ p8k
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20151115T170000
+DTEND;TZID=America/New_York:20151115T180000
+DTSTAMP:20200617T200304Z
+UID:141F5ACD-31CD-4AD7-8A1F-FC858100FD9E
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t._64q32hhl851k8b9j651k8b9k8523eb9o84okcba68cs3ae1h60o
+ 4ch1p8k
+RECURRENCE-ID;TZID=America/New_York:20151115T190000
+CLASS:PUBLIC
+CREATED:20151028T233313Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t._64q32hhl85
+ 1k8b9j651k8b9k8523eb9o84okcba68cs3ae1h60o4ch1p8k?hs=121\n-::~:~::~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20151116T201118Z
+LOCATION:Eat Unique
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Meeting
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t._64q32hhl851k8b9j651k8b9k8523eb9o84okcba68cs3ae1h60o4ch1
+ p8k
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20151206T170000
+DTEND;TZID=America/New_York:20151206T180000
+DTSTAMP:20200617T200304Z
+UID:141F5ACD-31CD-4AD7-8A1F-FC858100FD9E
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t._64q32hhl851k8b9j651k8b9k8523eb9o84okcba68cs3ae1h60o
+ 4ch1p8k
+RECURRENCE-ID;TZID=America/New_York:20151206T190000
+CLASS:PUBLIC
+CREATED:20151028T233313Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t._64q32hhl85
+ 1k8b9j651k8b9k8523eb9o84okcba68cs3ae1h60o4ch1p8k?hs=121\n-::~:~::~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20151116T201118Z
+LOCATION:Eat Unique
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Meeting
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t._64q32hhl851k8b9j651k8b9k8523eb9o84okcba68cs3ae1h60o4ch1
+ p8k
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20151028T180000
+DTEND;TZID=America/New_York:20151028T190000
+RRULE:FREQ=WEEKLY;COUNT=3;BYDAY=WE
+DTSTAMP:20200617T200304Z
+UID:ei3ud90inu1ro87fl3hshm09c0@google.com
+CLASS:PUBLIC
+CREATED:20151022T195058Z
+DESCRIPTION:
+LAST-MODIFIED:20151118T154932Z
+LOCATION:CUC Class of 1987 Room
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs General Meeting
+TRANSP:OPAQUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20151118T170000
+DTEND;TZID=America/New_York:20151118T180000
+RRULE:FREQ=WEEKLY;COUNT=1;BYDAY=WE
+DTSTAMP:20200617T200304Z
+UID:2FAC9AA6-179E-4564-B83D-309321705471
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t._69342gpp850jcb9h6sskab9k6kr38ba270pk8b9j60sj6chh6so
+ 3ad1n64
+CREATED:20151118T154931Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t._69342gpp85
+ 0jcb9h6sskab9k6kr38ba270pk8b9j60sj6chh6so3ad1n64?hs=121\n-::~:~::~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20151118T155040Z
+LOCATION:CUC Class of 1987 Room
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs General Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160122T230000Z
+DTEND:20160123T000000Z
+DTSTAMP:20200617T200304Z
+UID:2pknoqbirvccqqr9enacobnir0@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t.2pknoqbirvccqqr9enacobnir0
+CLASS:PUBLIC
+CREATED:20151104T223157Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t.2pknoqbirvc
+ cqqr9enacobnir0?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20151206T221644Z
+LOCATION:Wean 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse: "HTML/CSS"
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t.2pknoqbirvccqqr9enacobnir0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160123T000000Z
+DTEND:20160123T010000Z
+DTSTAMP:20200617T200304Z
+UID:ls2cjp41i42g2lh43tfj3421j4@google.com
+CLASS:PUBLIC
+CREATED:20151104T223204Z
+DESCRIPTION:
+LAST-MODIFIED:20151206T221658Z
+LOCATION:Wean 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse: "Frontend Javascript"
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160123T010000Z
+DTEND:20160123T020000Z
+DTSTAMP:20200617T200304Z
+UID:vs81nq5c6dvkjt2s59m3rqe818@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t.vs81nq5c6dvkjt2s59m3rqe818
+CLASS:PUBLIC
+CREATED:20151104T223213Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t.vs81nq5c6dv
+ kjt2s59m3rqe818?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20151206T221708Z
+LOCATION:Wean 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse: "Intro to Game Development with Unity" with Rachel Moe
+ ller
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t.vs81nq5c6dvkjt2s59m3rqe818
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160123T230000Z
+DTEND:20160124T000000Z
+DTSTAMP:20200617T200304Z
+UID:strs323s4allpicdkl0cc6g0es@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t.strs323s4allpicdkl0cc6g0es
+CLASS:PUBLIC
+CREATED:20151104T223239Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t.strs323s4al
+ lpicdkl0cc6g0es?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20151206T221750Z
+LOCATION:Wean 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse: "Backend with Flask"
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t.strs323s4allpicdkl0cc6g0es
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160130T000000Z
+DTEND:20160130T010000Z
+DTSTAMP:20200617T200304Z
+UID:gh03k0jra3994nkb57r7kf0j6k@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t.gh03k0jra3994nkb57r7kf0j6k
+CLASS:PUBLIC
+CREATED:20151104T223328Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t.gh03k0jra39
+ 94nkb57r7kf0j6k?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20151206T222336Z
+LOCATION:Wean 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse: "Frontend Javascript"
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t.gh03k0jra3994nkb57r7kf0j6k
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160130T010000Z
+DTEND:20160130T020000Z
+DTSTAMP:20200617T200304Z
+UID:cetfnqf03pmn3ck90tqfclbj9c@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t.cetfnqf03pmn3ck90tqfclbj9c
+CLASS:PUBLIC
+CREATED:20151104T223336Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t.cetfnqf03pm
+ n3ck90tqfclbj9c?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20151206T222346Z
+LOCATION:Wean 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse: "React JS" with Jake
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t.cetfnqf03pmn3ck90tqfclbj9c
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160130T230000Z
+DTEND:20160131T000000Z
+DTSTAMP:20200617T200304Z
+UID:f3f9kf35enqp3iqubg194b5p2s@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t.f3f9kf35enqp3iqubg194b5p2s
+CLASS:PUBLIC
+CREATED:20151104T223351Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t.f3f9kf35enq
+ p3iqubg194b5p2s?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20151206T222415Z
+LOCATION:Wean 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse: "Website and App Design"
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t.f3f9kf35enqp3iqubg194b5p2s
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160131T000000Z
+DTEND:20160131T010000Z
+DTSTAMP:20200617T200304Z
+UID:uknaoepvq3qi1jqpiq1tvjmpi8@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t.uknaoepvq3qi1jqpiq1tvjmpi8
+CLASS:PUBLIC
+CREATED:20151104T223402Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t.uknaoepvq3q
+ i1jqpiq1tvjmpi8?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20151206T222424Z
+LOCATION:Wean 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse: "Backend with Flask"
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t.uknaoepvq3qi1jqpiq1tvjmpi8
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151209T220000Z
+DTEND:20151209T230000Z
+DTSTAMP:20200617T200304Z
+UID:20674d0bu6kj2f5394loolu5r8@google.com
+CLASS:PUBLIC
+CREATED:20151022T195222Z
+DESCRIPTION:
+LAST-MODIFIED:20151206T223127Z
+LOCATION:CUC Class of 1987 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs General Meeting
+TRANSP:OPAQUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20151108T190000
+DTEND;TZID=America/New_York:20151108T200000
+EXDATE;TZID=America/New_York:20151122T190000
+EXDATE;TZID=America/New_York:20151129T190000
+EXDATE;TZID=America/New_York:20151213T190000
+EXDATE;TZID=America/New_York:20151213T190000
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=6;BYDAY=SU
+DTSTAMP:20200617T200304Z
+UID:141F5ACD-31CD-4AD7-8A1F-FC858100FD9E
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t._64q32hhl851k8b9j651k8b9k8523eb9o84okcba68cs3ae1h60o
+ 4ch1p8k
+CLASS:PUBLIC
+CREATED:20151028T233313Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t._64q32hhl85
+ 1k8b9j651k8b9k8523eb9o84okcba68cs3ae1h60o4ch1p8k?hs=121\n-::~:~::~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20151207T160859Z
+LOCATION:Eat Unique
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Meeting
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t._64q32hhl851k8b9j651k8b9k8523eb9o84okcba68cs3ae1h60o4ch1
+ p8k
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160122T220000Z
+DTEND:20160122T230000Z
+DTSTAMP:20200617T200304Z
+UID:k448lbko3ovbhfkt3c8vqesflg@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t.k448lbko3ovbhfkt3c8vqesflg
+CLASS:PUBLIC
+CREATED:20151104T223149Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t.k448lbko3ov
+ bhfkt3c8vqesflg?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20151207T190714Z
+LOCATION:Wean 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse Dinner and SARV Apps Talk
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t.k448lbko3ovbhfkt3c8vqesflg
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160130T220000Z
+DTEND:20160130T230000Z
+DTSTAMP:20200617T200304Z
+UID:5h4p79p53poe0hbeer38l6ie4k@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t.5h4p79p53poe0hbeer38l6ie4k
+CLASS:PUBLIC
+CREATED:20151104T223345Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t.5h4p79p53po
+ e0hbeer38l6ie4k?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20151207T190734Z
+LOCATION:Wean 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse Dinner and SARV Apps Talk
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t.5h4p79p53poe0hbeer38l6ie4k
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20151110T170000
+DTEND;TZID=America/New_York:20151110T180000
+EXDATE;TZID=America/New_York:20151124T170000
+EXDATE;TZID=America/New_York:20151215T170000
+EXDATE;TZID=America/New_York:20151222T170000
+EXDATE;TZID=America/New_York:20151229T170000
+EXDATE;TZID=America/New_York:20160105T170000
+RRULE:FREQ=WEEKLY;UNTIL=20151208T220000Z;BYDAY=TU
+DTSTAMP:20200617T200304Z
+UID:6dj64c31c8qjcbb160sj4b9k6gqm8bb2c4s3ab9p70omapb5cgpj8pj4co@google.com
+CLASS:PUBLIC
+CREATED:20151110T212503Z
+DESCRIPTION:
+LAST-MODIFIED:20160109T003215Z
+LOCATION:GHC 3000
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Event Platform Weekly Meeting
+TRANSP:OPAQUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20151027T190000
+DTEND;TZID=America/New_York:20151027T200000
+EXDATE;TZID=America/New_York:20151124T180000
+EXDATE;TZID=America/New_York:20151124T190000
+EXDATE;TZID=America/New_York:20151215T190000
+EXDATE;TZID=America/New_York:20151222T190000
+EXDATE;TZID=America/New_York:20151229T190000
+EXDATE;TZID=America/New_York:20160105T190000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20151209T000000Z;BYDAY=TU
+DTSTAMP:20200617T200304Z
+UID:60q6cd1hcphjcbb4c9j6ab9k6ko6abb16crmcb9ncgs38eb561gm8c9k64@google.com
+CLASS:PUBLIC
+CREATED:20151027T045238Z
+DESCRIPTION:
+LAST-MODIFIED:20160109T003230Z
+LOCATION:Gates 3000
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Print Weekly Meeting
+TRANSP:OPAQUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160113T000000Z
+DTEND:20160113T005000Z
+DTSTAMP:20200617T200304Z
+UID:4lr2vkodqdo5osb81ej9k8khr8@google.com
+CREATED:20160111T225108Z
+DESCRIPTION:
+LAST-MODIFIED:20160111T225108Z
+LOCATION:Quiznos (Craig Street)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20160113T170000
+DTEND;TZID=America/New_York:20160113T180000
+DTSTAMP:20200617T200304Z
+UID:o9eoml0m3is8mboe3p3l0bp1lg@google.com
+RECURRENCE-ID;TZID=America/New_York:20160113T170000
+CLASS:PUBLIC
+CREATED:20160111T141658Z
+DESCRIPTION:
+LAST-MODIFIED:20160112T205323Z
+LOCATION:Wean 5415
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[SL] General Body Meeting
+TRANSP:OPAQUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20160113T170000
+DTEND;TZID=America/New_York:20160113T180000
+RRULE:FREQ=WEEKLY;UNTIL=20160120T220000Z;BYDAY=WE
+DTSTAMP:20200617T200304Z
+UID:o9eoml0m3is8mboe3p3l0bp1lg@google.com
+CLASS:PUBLIC
+CREATED:20160111T141658Z
+DESCRIPTION:
+LAST-MODIFIED:20160112T205336Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[SL] General Body Meeting
+TRANSP:OPAQUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160124T000000Z
+DTEND:20160124T010000Z
+DTSTAMP:20200617T200304Z
+UID:0ot8599t34el2r177m1qmr0a8c@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t.0ot8599t34el2r177m1qmr0a8c
+CLASS:PUBLIC
+CREATED:20151104T223246Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t.0ot8599t34e
+ l2r177m1qmr0a8c?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20160113T003041Z
+LOCATION:Wean 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse: Swift with Scott
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t.0ot8599t34el2r177m1qmr0a8c
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160131T010000Z
+DTEND:20160131T020000Z
+DTSTAMP:20200617T200304Z
+UID:tbakkrt4qif985c6b8mlocc2p8@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t.tbakkrt4qif985c6b8mlocc2p8
+CLASS:PUBLIC
+CREATED:20151104T223408Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t.tbakkrt4qif
+ 985c6b8mlocc2p8?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20160113T003252Z
+LOCATION:Wean 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse: "Android App Development" with Justin
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t.tbakkrt4qif985c6b8mlocc2p8
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160129T230000Z
+DTEND:20160130T000000Z
+DTSTAMP:20200617T200304Z
+UID:f8487a71e04v7hongi62urr21o@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t.f8487a71e04v7hongi62urr21o
+CLASS:PUBLIC
+CREATED:20151104T223318Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t.f8487a71e04
+ v7hongi62urr21o?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20160113T003303Z
+LOCATION:Wean 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse: "HTML/CSS"
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t.f8487a71e04v7hongi62urr21o
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160124T010000Z
+DTEND:20160124T020000Z
+DTSTAMP:20200617T200304Z
+UID:fhhp1sgm80qpd193v7jji98k2s@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t.fhhp1sgm80qpd193v7jji98k2s
+CLASS:PUBLIC
+CREATED:20151104T223255Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t.fhhp1sgm80q
+ pd193v7jji98k2s?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20160113T003320Z
+LOCATION:Wean 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse: iOScott
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t.fhhp1sgm80qpd193v7jji98k2s
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20160120T170000
+DTEND;TZID=America/New_York:20160120T180000
+DTSTAMP:20200617T200304Z
+UID:o9eoml0m3is8mboe3p3l0bp1lg@google.com
+RECURRENCE-ID;TZID=America/New_York:20160120T170000
+CLASS:PUBLIC
+CREATED:20160111T141658Z
+DESCRIPTION:
+LAST-MODIFIED:20160115T165009Z
+LOCATION:Porter Hall 225B
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:[SL] General Body Meeting
+TRANSP:OPAQUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160122
+DTEND;VALUE=DATE:20160124
+DTSTAMP:20200617T200304Z
+UID:0t68oqtm4ugqq89cs59cbvhlr4@google.com
+CLASS:PUBLIC
+CREATED:20151102T185925Z
+DESCRIPTION:
+LAST-MODIFIED:20160121T182852Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:7A7B3E1A-387B-46B5-A88A-7910CF579BF0
+UID:7A7B3E1A-387B-46B5-A88A-7910CF579BF0
+ATTACH;VALUE=URI:Basso
+X-APPLE-DEFAULT-ALARM:TRUE
+ACKNOWLEDGED:20160121T182844Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160129T220000Z
+DTEND:20160129T230000Z
+DTSTAMP:20200617T200304Z
+UID:48bsunhf0klmjsms9dug4n1q3o@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t.48bsunhf0klmjsms9dug4n1q3o
+CLASS:PUBLIC
+CREATED:20151104T223311Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t.48bsunhf0kl
+ mjsms9dug4n1q3o?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20160122T034908Z
+LOCATION:Wean 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse Dinner 
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t.48bsunhf0klmjsms9dug4n1q3o
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160123T220000Z
+DTEND:20160123T230000Z
+DTSTAMP:20200617T200304Z
+UID:4t4550vhk9bfremajqtfhgl8pk@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t.4t4550vhk9bfremajqtfhgl8pk
+CLASS:PUBLIC
+CREATED:20151104T223233Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t.4t4550vhk9b
+ fremajqtfhgl8pk?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20160122T034920Z
+LOCATION:Wean 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse Dinner
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t.4t4550vhk9bfremajqtfhgl8pk
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160205T220000Z
+DTEND:20160207T020000Z
+DTSTAMP:20200617T200304Z
+UID:150779AB-E6C5-4F61-9872-B516BA8C9923
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t._64qj0dpn750k4ba56p1jab9k8or32b9p70rj4ba26kojcgi1711
+ jie9i6c
+CLASS:PUBLIC
+CREATED:20151024T182325Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t._64qj0dpn75
+ 0k4ba56p1jab9k8or32b9p70rj4ba26kojcgi1711jie9i6c?hs=121\n-::~:~::~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20160128T035842Z
+LOCATION:Porter Hall
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TartanHacks
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t._64qj0dpn750k4ba56p1jab9k8or32b9p70rj4ba26kojcgi1711jie9
+ i6c
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160129
+DTEND;VALUE=DATE:20160131
+DTSTAMP:20200617T200304Z
+UID:tmeoglq1gd2vuiu3tfbrvlrrkc@google.com
+CLASS:PUBLIC
+CREATED:20151102T185907Z
+DESCRIPTION:
+LAST-MODIFIED:20160128T220032Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CrashCourse
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:289729D1-C3A9-4C73-B553-762E1ACF33B7
+UID:289729D1-C3A9-4C73-B553-762E1ACF33B7
+ATTACH;VALUE=URI:Basso
+X-APPLE-DEFAULT-ALARM:TRUE
+ACKNOWLEDGED:20160128T214530Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20160210T170000
+DTEND;TZID=America/New_York:20160210T180000
+DTSTAMP:20200617T200304Z
+UID:CF4C7F53-E215-4D83-B8A6-ED1395BFA28A
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t._8d338gpn8oqj6ba568ojab9k8gs36ba2710jcba58goj6e9l893
+ 42cho84
+RECURRENCE-ID;TZID=America/New_York:20160210T170000
+CLASS:PUBLIC
+CREATED:20160112T205335Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t._8d338gpn8o
+ qj6ba568ojab9k8gs36ba2710jcba58goj6e9l89342cho84?hs=121\n-::~:~::~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20160314T184907Z
+LOCATION:Porter Hall 225B
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[SL] TartanHacks Wrap Up & Reflection
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t._8d338gpn8oqj6ba568ojab9k8gs36ba2710jcba58goj6e9l89342ch
+ o84
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20160217T170000
+DTEND;TZID=America/New_York:20160217T180000
+DTSTAMP:20200617T200304Z
+UID:CF4C7F53-E215-4D83-B8A6-ED1395BFA28A
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t._8d338gpn8oqj6ba568ojab9k8gs36ba2710jcba58goj6e9l893
+ 42cho84
+RECURRENCE-ID;TZID=America/New_York:20160217T170000
+CLASS:PUBLIC
+CREATED:20160112T205335Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t._8d338gpn8o
+ qj6ba568ojab9k8gs36ba2710jcba58goj6e9l89342cho84?hs=121\n-::~:~::~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20160314T184907Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:[SL] NO MEETING\, nominations due
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t._8d338gpn8oqj6ba568ojab9k8gs36ba2710jcba58goj6e9l89342ch
+ o84
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20160224T170000
+DTEND;TZID=America/New_York:20160224T180000
+DTSTAMP:20200617T200304Z
+UID:CF4C7F53-E215-4D83-B8A6-ED1395BFA28A
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t._8d338gpn8oqj6ba568ojab9k8gs36ba2710jcba58goj6e9l893
+ 42cho84
+RECURRENCE-ID;TZID=America/New_York:20160224T170000
+CLASS:PUBLIC
+CREATED:20160112T205335Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t._8d338gpn8o
+ qj6ba568ojab9k8gs36ba2710jcba58goj6e9l89342cho84?hs=121\n-::~:~::~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20160314T184907Z
+LOCATION:Porter Hall 225B
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[SL] Elections
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t._8d338gpn8oqj6ba568ojab9k8gs36ba2710jcba58goj6e9l89342ch
+ o84
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160326T000000Z
+DTEND:20160326T010000Z
+DTSTAMP:20200617T200304Z
+UID:rief63bdcnru11ft3ifljvpjlk@google.com
+CREATED:20160325T234834Z
+DESCRIPTION:
+LAST-MODIFIED:20160325T234834Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fun Times
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20151107T180000
+DTEND;TZID=America/New_York:20151108T000000
+EXDATE;TZID=America/New_York:20151128T180000
+EXDATE;TZID=America/New_York:20151212T180000
+EXDATE;TZID=America/New_York:20151219T180000
+EXDATE;TZID=America/New_York:20151226T180000
+EXDATE;TZID=America/New_York:20160102T180000
+EXDATE;TZID=America/New_York:20160109T180000
+EXDATE;TZID=America/New_York:20160123T180000
+EXDATE;TZID=America/New_York:20160130T180000
+EXDATE;TZID=America/New_York:20160206T180000
+EXDATE;TZID=America/New_York:20160213T180000
+EXDATE;TZID=America/New_York:20160220T180000
+EXDATE;TZID=America/New_York:20160305T180000
+EXDATE;TZID=America/New_York:20160312T180000
+EXDATE;TZID=America/New_York:20160416T180000
+EXDATE;TZID=America/New_York:20160507T180000
+EXDATE;TZID=America/New_York:20160514T180000
+RRULE:FREQ=WEEKLY;COUNT=25;BYDAY=SA
+DTSTAMP:20200617T200304Z
+UID:sd6snre78ihvsf4c9pdd6qmiuo@google.com
+CLASS:PUBLIC
+CREATED:20151107T223126Z
+DESCRIPTION:
+LAST-MODIFIED:20160329T200146Z
+LOCATION:CUC Caffee
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Tech Hack Session
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20160409T183000
+DTEND;TZID=America/New_York:20160410T003000
+DTSTAMP:20200617T200304Z
+UID:sd6snre78ihvsf4c9pdd6qmiuo@google.com
+RECURRENCE-ID;TZID=America/New_York:20160409T180000
+CLASS:PUBLIC
+CREATED:20151107T223126Z
+DESCRIPTION:
+LAST-MODIFIED:20160329T200146Z
+LOCATION:CUC Caffee
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Tech Hack Session
+TRANSP:OPAQUE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160907T203000Z
+DTEND:20160907T223000Z
+DTSTAMP:20200617T200304Z
+UID:ig5lrsqn4tpdq7qd7haei6jve0@google.com
+CREATED:20160403T012329Z
+DESCRIPTION:
+LAST-MODIFIED:20160403T012329Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Activities Fair
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20160127T170000
+DTEND;TZID=America/New_York:20160127T180000
+EXDATE;TZID=America/New_York:20160302T170000
+EXDATE;TZID=America/New_York:20160309T170000
+EXDATE;TZID=America/New_York:20160316T170000
+EXDATE;TZID=America/New_York:20160413T170000
+EXDATE;TZID=America/New_York:20160504T170000
+RRULE:FREQ=WEEKLY;COUNT=14;BYDAY=WE
+DTSTAMP:20200617T200304Z
+UID:CF4C7F53-E215-4D83-B8A6-ED1395BFA28A
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/Y211LnNjb3
+ R0eWxhYnNAZ21haWwuY29t._8d338gpn8oqj6ba568ojab9k8gs36ba2710jcba58goj6e9l893
+ 42cho84
+CLASS:PUBLIC
+CREATED:20160112T205335Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t._8d338gpn8o
+ qj6ba568ojab9k8gs36ba2710jcba58goj6e9l89342cho84?hs=121\n-::~:~::~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20160410T004041Z
+LOCATION:Porter Hall 225B
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[SL] General Body Meeting
+TRANSP:OPAQUE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t._8d338gpn8oqj6ba568ojab9k8gs36ba2710jcba58goj6e9l89342ch
+ o84
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160423T180000Z
+DTEND:20160423T190000Z
+DTSTAMP:20200617T200304Z
+UID:cbm8u13kc0usa17dcm4n16s4bc@google.com
+CREATED:20160419T160243Z
+DESCRIPTION:
+LAST-MODIFIED:20160419T160243Z
+LOCATION:Tazza D'Oro (GHC 3)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:exec+ meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160905T210000Z
+DTEND:20160906T000000Z
+DTSTAMP:20200617T200304Z
+UID:24740FA7-FCDE-498B-BBCB-43BDC5B49FE5
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t._68q3ed1g8p0jeba68d24ab9k74s44ba2891k4b9k6d148gpl88q3ihi
+ 56k
+CREATED:20160901T230554Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://plus.goog
+ le.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t._68q3ed1g8p0jeb
+ a68d24ab9k74s44ba2891k4b9k6d148gpl88q3ihi56k?hs=121\n-::~:~::~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20160901T230554Z
+LOCATION:Mark's House
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Welcome Back BBQ
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160915T203000Z
+DTEND:20160915T213000Z
+DTSTAMP:20200617T200304Z
+UID:7le21auoe8tgngq7br0h2a2em4@google.com
+CREATED:20160911T192557Z
+DESCRIPTION:
+LAST-MODIFIED:20160911T192557Z
+LOCATION:WEH 5421
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs First Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160917T170000Z
+DTEND:20160917T200000Z
+DTSTAMP:20200617T200304Z
+UID:5t42kkse74vmmhc89ggvi3ncbc@google.com
+CREATED:20160911T193054Z
+DESCRIPTION:Come get set up to code with ScottyLabs! We'll help you set up 
+ Git if you haven't already and add yourself as a member to our website. 
+LAST-MODIFIED:20160911T193054Z
+LOCATION:UC Danforth Lounge
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160830T213000Z
+DTEND:20160830T220000Z
+DTSTAMP:20200617T200304Z
+UID:iounhd1u52ma5fim33rql9r0co@google.com
+CLASS:PRIVATE
+CREATED:20160830T013731Z
+DESCRIPTION:The first ScottyLabs meeting of fall 2016!!\n\nThe Class of 87 
+ Room is on the 2nd floor of the UC\, in the hallway headed towards Au Bon P
+ ain (ABP).\n\nNote: The time may change in future weeks\, so keep checking 
+ the calendar for the next week or so until we agree upon a consistent time!
+LAST-MODIFIED:20160911T195439Z
+LOCATION:UC Class of 1987 Room
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs First Meeting!!!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160924T170000Z
+DTEND:20160924T200000Z
+DTSTAMP:20200617T200304Z
+UID:n5fhh6adkstrqtbacsnji8bj88@google.com
+CREATED:20160924T132134Z
+DESCRIPTION:
+LAST-MODIFIED:20160924T132134Z
+LOCATION:WEH 5202
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161008T170000Z
+DTEND:20161008T200000Z
+DTSTAMP:20200617T200304Z
+UID:mla6ln0jggeurfbu5t6b5s2ls8@google.com
+CREATED:20161006T203351Z
+DESCRIPTION:
+LAST-MODIFIED:20161006T203401Z
+LOCATION:CUC Class of '87 Room
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hack session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20160922T163000
+DTEND;TZID=America/New_York:20160922T173000
+RRULE:FREQ=WEEKLY;UNTIL=20161020T035959Z;BYDAY=TH
+DTSTAMP:20200617T200304Z
+UID:tfg5eaiva5t0s2kbgbo34iedb0@google.com
+CREATED:20160918T185810Z
+DESCRIPTION:
+LAST-MODIFIED:20161008T173927Z
+LOCATION:TBD
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs weekly meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20160922T163000
+DTEND;TZID=America/New_York:20160922T173000
+DTSTAMP:20200617T200304Z
+UID:tfg5eaiva5t0s2kbgbo34iedb0@google.com
+RECURRENCE-ID;TZID=America/New_York:20160922T163000
+CREATED:20160918T185810Z
+DESCRIPTION:
+LAST-MODIFIED:20161008T173927Z
+LOCATION:Gates 4102
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs weekly meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20161006T163000
+DTEND;TZID=America/New_York:20161006T173000
+DTSTAMP:20200617T200304Z
+UID:tfg5eaiva5t0s2kbgbo34iedb0@google.com
+RECURRENCE-ID;TZID=America/New_York:20161006T163000
+CREATED:20160918T185810Z
+DESCRIPTION:
+LAST-MODIFIED:20161008T173927Z
+LOCATION:GHC 4102
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs weekly meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20161013T163000
+DTEND;TZID=America/New_York:20161013T173000
+DTSTAMP:20200617T200304Z
+UID:tfg5eaiva5t0s2kbgbo34iedb0@google.com
+RECURRENCE-ID;TZID=America/New_York:20161013T163000
+CREATED:20160918T185810Z
+DESCRIPTION:
+LAST-MODIFIED:20161008T173927Z
+LOCATION:WEH 4623
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs weekly meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20161020T163000
+DTEND;TZID=America/New_York:20161020T173000
+RRULE:FREQ=WEEKLY;UNTIL=20161208T213000Z;BYDAY=TH
+EXDATE;TZID=America/New_York:20161124T163000
+DTSTAMP:20200617T200304Z
+UID:tfg5eaiva5t0s2kbgbo34iedb0_R20161020T203000@google.com
+CREATED:20160918T185810Z
+DESCRIPTION:
+LAST-MODIFIED:20161008T173927Z
+LOCATION:GHC 4102
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs weekly meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161016T160000Z
+DTEND:20161016T210000Z
+DTSTAMP:20200617T200304Z
+UID:098A27C7-88C1-4501-968C-685382EE8A7F
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t._60sjgg9i6t1jeb9o711j2b9k6ko32b9p6os46b9m70qj6e1i8l2jgg9
+ n8o
+CREATED:20161010T173905Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://plus.goog
+ le.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t._60sjgg9i6t1jeb
+ 9o711j2b9k6ko32b9p6os46b9m70qj6e1i8l2jgg9n8o?hs=121\n-::~:~::~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20161014T191132Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Apple Picking Trip
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t._60sjgg9i6t1jeb9o711j2b9k6ko32b9p6os46b9m70qj6e1i8l2jgg9
+ n8o
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:37F5D0F2-3C73-479E-85E8-BACDB8323708
+UID:37F5D0F2-3C73-479E-85E8-BACDB8323708
+ACKNOWLEDGED:20161014T191115Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161015T170000Z
+DTEND:20161015T200000Z
+DTSTAMP:20200617T200304Z
+UID:vlv9es34cqjno2q8ti17058kc4@google.com
+CREATED:20161008T175147Z
+DESCRIPTION:
+LAST-MODIFIED:20161015T132821Z
+LOCATION:Danforth Lounge
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161022T170000Z
+DTEND:20161022T200000Z
+DTSTAMP:20200617T200304Z
+UID:mqlo2kcg0h8qm4f8nme7r1fsl8@google.com
+CREATED:20161015T132917Z
+DESCRIPTION:
+LAST-MODIFIED:20161015T132917Z
+LOCATION:CUC Pake
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20161027T163000
+DTEND;TZID=America/New_York:20161027T173000
+DTSTAMP:20200617T200304Z
+UID:tfg5eaiva5t0s2kbgbo34iedb0_R20161020T203000@google.com
+RECURRENCE-ID;TZID=America/New_York:20161027T163000
+CREATED:20160918T185810Z
+DESCRIPTION:
+LAST-MODIFIED:20161024T010308Z
+LOCATION:CUC McKenna
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs weekly meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161029T170000Z
+DTEND:20161029T200000Z
+DTSTAMP:20200617T200304Z
+UID:ose6kg3g8gfs85a675krhk9ibs@google.com
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t.ose6kg3g8gfs85a675krhk9ibs
+CREATED:20161028T022041Z
+DESCRIPTION:Come to work on APIs\, design projects or just hang out and do 
+ homework!\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descripti
+ on.\n\nThis event has a Google Hangouts video call.\nJoin: https://plus.goo
+ gle.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t.ose6kg3g8gfs85
+ a675krhk9ibs?hs=121\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20161028T022041Z
+LOCATION:WEH 5316
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161105T223000Z
+DTEND:20161106T000000Z
+DTSTAMP:20200617T200304Z
+UID:07mqnbrb4s71cr426gauen0v0k@google.com
+CREATED:20161008T173459Z
+DESCRIPTION:
+LAST-MODIFIED:20161103T231245Z
+LOCATION:WEH 5201 (Wean Mac Cluster)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:WebDevWeekend: Talk 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161105T220000Z
+DTEND:20161105T223000Z
+DTSTAMP:20200617T200304Z
+UID:lepnmekoe7djkj39ud4fk30n7o@google.com
+CREATED:20161008T173433Z
+DESCRIPTION:
+LAST-MODIFIED:20161103T231251Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:WebDevWeekend: Dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161105T203000Z
+DTEND:20161105T220000Z
+DTSTAMP:20200617T200304Z
+UID:mcvirdpn4l2mv55fk1spi4l75c@google.com
+CREATED:20161008T173411Z
+DESCRIPTION:
+LAST-MODIFIED:20161103T231258Z
+LOCATION:WEH 5201 (Wean Mac Cluster)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:WebDevWeekend: Talk 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161105T190000Z
+DTEND:20161105T203000Z
+DTSTAMP:20200617T200304Z
+UID:c0cvi0snm7ouclv7qfso7ag914@google.com
+CREATED:20161008T173331Z
+DESCRIPTION:
+LAST-MODIFIED:20161103T231305Z
+LOCATION:WEH 5201 (Wean Mac Cluster)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:WebDevWeekend: Talk 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161105T173000Z
+DTEND:20161105T190000Z
+DTSTAMP:20200617T200304Z
+UID:g7m323sveskss3kihtds53opbk@google.com
+CREATED:20161008T173308Z
+DESCRIPTION:
+LAST-MODIFIED:20161103T231312Z
+LOCATION:WEH 5201 (Wean Mac Cluster)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:WebDevWeekend: Talk 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161106T230000Z
+DTEND:20161106T233000Z
+DTSTAMP:20200617T200304Z
+UID:j36jmqnfbvdhctd9f6qpj6qa20@google.com
+CREATED:20161008T173710Z
+DESCRIPTION:
+LAST-MODIFIED:20161103T231359Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:WebDevWeekend: Dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161112T180000Z
+DTEND:20161112T210000Z
+DTSTAMP:20200617T200304Z
+UID:ti1u55kf7h7fgqic2kt72uuahk@google.com
+CREATED:20161103T231446Z
+DESCRIPTION:
+LAST-MODIFIED:20161103T231446Z
+LOCATION:CUC Pake
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161112T193000Z
+DTEND:20161112T203000Z
+DTSTAMP:20200617T200304Z
+UID:nkfl953du2l7t5k00pr20a9s8s@google.com
+CREATED:20161111T170745Z
+DESCRIPTION:
+LAST-MODIFIED:20161111T170745Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Planning Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161119T180000Z
+DTEND:20161119T210000Z
+DTSTAMP:20200617T200304Z
+UID:C9EA9106-A99D-4754-B8A1-068DD6099DFE
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t._8cskag9p64o3cba174sk8b9k6sqj8ba2710j2b9g6os48h1m60sjih2
+ 68k
+CREATED:20161115T135344Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://plus.goog
+ le.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t._8cskag9p64o3cb
+ a174sk8b9k6sqj8ba2710j2b9g6os48h1m60sjih268k?hs=121\n-::~:~::~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20161116T225054Z
+LOCATION:WEH 5310
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161119T193000Z
+DTEND:20161119T203000Z
+DTSTAMP:20200617T200304Z
+UID:B3C29F2D-D070-4CE8-9399-EF6598B6C6D1
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/Y211LnNjb3R0eW
+ xhYnNAZ21haWwuY29t._88pk6chp8op48ba460rj0b9k8d2jgb9p6csjiba58or3ae9o88r46di
+ 464
+CREATED:20161115T135231Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://plus.goog
+ le.com/hangouts/_/calendar/Y211LnNjb3R0eWxhYnNAZ21haWwuY29t._88pk6chp8op48b
+ a460rj0b9k8d2jgb9p6csjiba58or3ae9o88r46di464?hs=121\n-::~:~::~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20161116T225109Z
+LOCATION:WEH 5304
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Planning Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161203T180000Z
+DTEND:20161203T210000Z
+DTSTAMP:20200617T200304Z
+UID:3i1ccuf4q5fcge3dbb5t5tnhg4@google.com
+CREATED:20161129T001833Z
+DESCRIPTION:
+LAST-MODIFIED:20161129T001833Z
+LOCATION:CUC Danforth Conference Room
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161203T193000Z
+DTEND:20161203T210000Z
+DTSTAMP:20200617T200304Z
+UID:slnk2p92hscrofjv364vpqjpjk@google.com
+CREATED:20161129T001721Z
+DESCRIPTION:
+LAST-MODIFIED:20161129T001843Z
+LOCATION:CUC Caffee
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Planning Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161210T193000Z
+DTEND:20161210T203000Z
+DTSTAMP:20200617T200304Z
+UID:8ahbgd6vrjjc9r3qk0njvvrpj4@google.com
+CREATED:20161207T171353Z
+DESCRIPTION:
+LAST-MODIFIED:20161207T171405Z
+LOCATION:CUC Caffee
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks planning session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170121T170000Z
+DTEND:20170121T190000Z
+DTSTAMP:20200617T200304Z
+UID:pj4vpc39l8fkes0dgq4ppdqh6k@google.com
+CREATED:20170112T175409Z
+DESCRIPTION:
+LAST-MODIFIED:20170112T175409Z
+LOCATION:CUC '87
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Planning Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170304T180000Z
+DTEND:20170304T210000Z
+DTSTAMP:20200617T200304Z
+UID:9krp9crmpke5o4k5f8lp4qv9q4@google.com
+CREATED:20170112T175716Z
+DESCRIPTION:
+LAST-MODIFIED:20170112T175716Z
+LOCATION:WEH 5320
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170325T170000Z
+DTEND:20170325T200000Z
+DTSTAMP:20200617T200304Z
+UID:vrmo81fjm88m8r2q9muhs6oajs@google.com
+CREATED:20170112T175741Z
+DESCRIPTION:
+LAST-MODIFIED:20170112T175750Z
+LOCATION:WEH 5320
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170408T170000Z
+DTEND:20170408T200000Z
+DTSTAMP:20200617T200304Z
+UID:a3ae8lrtb5jkei4j64jnspa17o@google.com
+CREATED:20170112T175821Z
+DESCRIPTION:
+LAST-MODIFIED:20170112T175821Z
+LOCATION:WEH 5320
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170225T180000Z
+DTEND:20170225T210000Z
+DTSTAMP:20200617T200304Z
+UID:gdeijgr0l65366jg7ur36npt98@google.com
+CREATED:20170118T145810Z
+DESCRIPTION:
+LAST-MODIFIED:20170118T145810Z
+LOCATION:CUC Class of '87
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hack session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170401T170000Z
+DTEND:20170401T200000Z
+DTSTAMP:20200617T200304Z
+UID:31f1d3g1mojhc68ght169g4vkk@google.com
+CREATED:20170118T145856Z
+DESCRIPTION:
+LAST-MODIFIED:20170118T145856Z
+LOCATION:CUC Class of '87
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hack session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170415T170000Z
+DTEND:20170415T200000Z
+DTSTAMP:20200617T200304Z
+UID:7aldb50ghttet4aahj31v0e8p8@google.com
+CREATED:20170118T145939Z
+DESCRIPTION:
+LAST-MODIFIED:20170118T145939Z
+LOCATION:CUC Class of '87
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hack session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170429T170000Z
+DTEND:20170429T200000Z
+DTSTAMP:20200617T200304Z
+UID:6flg0d24bd7f60oqnif2v3n89o@google.com
+CREATED:20170118T150020Z
+DESCRIPTION:
+LAST-MODIFIED:20170118T150020Z
+LOCATION:CUC Class of '87
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hack session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170118T213000Z
+DTEND:20170118T223000Z
+DTSTAMP:20200617T200304Z
+UID:dgeksvebae01g704stst73nhj8@google.com
+CREATED:20170118T182004Z
+DESCRIPTION:
+LAST-MODIFIED:20170118T212945Z
+LOCATION:DH 2105
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:General Body Meeting
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:7337AC44-37D3-4DCB-9080-A3794CB5CE46
+UID:7337AC44-37D3-4DCB-9080-A3794CB5CE46
+ACKNOWLEDGED:20170118T212944Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170121T180000Z
+DTEND:20170121T210000Z
+DTSTAMP:20200617T200304Z
+UID:m1u9j7uf9do2tool0cpkj70lgg@google.com
+CREATED:20170118T200325Z
+DESCRIPTION:
+LAST-MODIFIED:20170120T184951Z
+LOCATION:PH 225B
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170128T133000
+DTEND;TZID=America/New_York:20170128T150000
+RRULE:FREQ=WEEKLY;UNTIL=20170205T183000Z;BYDAY=SU,SA
+DTSTAMP:20200617T200304Z
+UID:8l2o6glhdgr6e9mgl3gjncfneo@google.com
+CREATED:20170121T200632Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T200632Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170128T150000
+DTEND;TZID=America/New_York:20170128T163000
+RRULE:FREQ=WEEKLY;UNTIL=20170205T200000Z;BYDAY=SU,SA
+DTSTAMP:20200617T200304Z
+UID:5uvqqfhdv84m5a0iufl4bdgok4@google.com
+CREATED:20170121T200734Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T200734Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170128T163000
+DTEND;TZID=America/New_York:20170128T180000
+RRULE:FREQ=WEEKLY;UNTIL=20170205T213000Z;BYDAY=SU,SA
+DTSTAMP:20200617T200304Z
+UID:3ppg4tpr8qa9l8fgiuj7p0sck8@google.com
+CREATED:20170121T200823Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T200823Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170128T183000
+DTEND;TZID=America/New_York:20170128T200000
+RRULE:FREQ=WEEKLY;UNTIL=20170205T233000Z;BYDAY=SU,SA
+DTSTAMP:20200617T200304Z
+UID:ppl7jelvil9394k0i7g2ra5q94@google.com
+CREATED:20170121T200905Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T200905Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170128T133000
+DTEND;TZID=America/New_York:20170128T150000
+DTSTAMP:20200617T200304Z
+UID:8l2o6glhdgr6e9mgl3gjncfneo@google.com
+RECURRENCE-ID;TZID=America/New_York:20170128T133000
+CREATED:20170121T200632Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T200925Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: HTML & CSS Primer
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170128T150000
+DTEND;TZID=America/New_York:20170128T163000
+DTSTAMP:20200617T200304Z
+UID:5uvqqfhdv84m5a0iufl4bdgok4@google.com
+RECURRENCE-ID;TZID=America/New_York:20170128T150000
+CREATED:20170121T200734Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T200945Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: JavaScript Development
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170128T163000
+DTEND;TZID=America/New_York:20170128T180000
+DTSTAMP:20200617T200304Z
+UID:3ppg4tpr8qa9l8fgiuj7p0sck8@google.com
+RECURRENCE-ID;TZID=America/New_York:20170128T163000
+CREATED:20170121T200823Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T201008Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: Using the Terminal & Git
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170128T170000Z
+DTEND:20170128T183000Z
+DTSTAMP:20200617T200304Z
+UID:cuk6chf6s8si4hho5g0jviahrc@google.com
+CREATED:20170112T175440Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T201016Z
+LOCATION:CUC '87
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Planning Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170128T183000
+DTEND;TZID=America/New_York:20170128T200000
+DTSTAMP:20200617T200304Z
+UID:ppl7jelvil9394k0i7g2ra5q94@google.com
+RECURRENCE-ID;TZID=America/New_York:20170128T183000
+CREATED:20170121T200905Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T201050Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: Typography & Grid
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170129T133000
+DTEND;TZID=America/New_York:20170129T150000
+DTSTAMP:20200617T200304Z
+UID:8l2o6glhdgr6e9mgl3gjncfneo@google.com
+RECURRENCE-ID;TZID=America/New_York:20170129T133000
+CREATED:20170121T200632Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T201113Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: Swift Primer
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170129T150000
+DTEND;TZID=America/New_York:20170129T163000
+DTSTAMP:20200617T200304Z
+UID:5uvqqfhdv84m5a0iufl4bdgok4@google.com
+RECURRENCE-ID;TZID=America/New_York:20170129T150000
+CREATED:20170121T200734Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T201128Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: iOS Development
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170129T163000
+DTEND;TZID=America/New_York:20170129T180000
+DTSTAMP:20200617T200304Z
+UID:3ppg4tpr8qa9l8fgiuj7p0sck8@google.com
+RECURRENCE-ID;TZID=America/New_York:20170129T163000
+CREATED:20170121T200823Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T201141Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: Designing an iOS App
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170129T183000
+DTEND;TZID=America/New_York:20170129T200000
+DTSTAMP:20200617T200304Z
+UID:ppl7jelvil9394k0i7g2ra5q94@google.com
+RECURRENCE-ID;TZID=America/New_York:20170129T183000
+CREATED:20170121T200905Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T201153Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: Unity & Augmented Reality
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170204T170000Z
+DTEND:20170204T183000Z
+DTSTAMP:20200617T200304Z
+UID:7kermbnqpk36qape7vlt43tff4@google.com
+CREATED:20170112T175508Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T201203Z
+LOCATION:CUC '87
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Planning Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170204T133000
+DTEND;TZID=America/New_York:20170204T150000
+DTSTAMP:20200617T200304Z
+UID:8l2o6glhdgr6e9mgl3gjncfneo@google.com
+RECURRENCE-ID;TZID=America/New_York:20170204T133000
+CREATED:20170121T200632Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T201238Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: Swift Primer
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170204T150000
+DTEND;TZID=America/New_York:20170204T163000
+DTSTAMP:20200617T200304Z
+UID:5uvqqfhdv84m5a0iufl4bdgok4@google.com
+RECURRENCE-ID;TZID=America/New_York:20170204T150000
+CREATED:20170121T200734Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T201255Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: iOS Development
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170204T163000
+DTEND;TZID=America/New_York:20170204T180000
+DTSTAMP:20200617T200304Z
+UID:3ppg4tpr8qa9l8fgiuj7p0sck8@google.com
+RECURRENCE-ID;TZID=America/New_York:20170204T163000
+CREATED:20170121T200823Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T201314Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: Web and Visual Design
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170204T183000
+DTEND;TZID=America/New_York:20170204T200000
+DTSTAMP:20200617T200304Z
+UID:ppl7jelvil9394k0i7g2ra5q94@google.com
+RECURRENCE-ID;TZID=America/New_York:20170204T183000
+CREATED:20170121T200905Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T201411Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: Deep Learning with Tensorflow
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170205T133000
+DTEND;TZID=America/New_York:20170205T150000
+DTSTAMP:20200617T200304Z
+UID:8l2o6glhdgr6e9mgl3gjncfneo@google.com
+RECURRENCE-ID;TZID=America/New_York:20170205T133000
+CREATED:20170121T200632Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T201430Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: JavaScript Development
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170205T150000
+DTEND;TZID=America/New_York:20170205T163000
+DTSTAMP:20200617T200304Z
+UID:5uvqqfhdv84m5a0iufl4bdgok4@google.com
+RECURRENCE-ID;TZID=America/New_York:20170205T150000
+CREATED:20170121T200734Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T201454Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: Designing an iOS App
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170205T163000
+DTEND;TZID=America/New_York:20170205T180000
+DTSTAMP:20200617T200304Z
+UID:3ppg4tpr8qa9l8fgiuj7p0sck8@google.com
+RECURRENCE-ID;TZID=America/New_York:20170205T163000
+CREATED:20170121T200823Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T201508Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: Using the Terminal & Git
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170205T183000
+DTEND;TZID=America/New_York:20170205T200000
+DTSTAMP:20200617T200304Z
+UID:ppl7jelvil9394k0i7g2ra5q94@google.com
+RECURRENCE-ID;TZID=America/New_York:20170205T183000
+CREATED:20170121T200905Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T201519Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course: Computer Vision with OpenCV
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170210T210000Z
+DTEND:20170210T220000Z
+DTSTAMP:20200617T200304Z
+UID:fobsjt7v9k4dk2sveeqbe42rvo@google.com
+CREATED:20170121T202151Z
+DESCRIPTION:Check-in will be open at 4pm for hackers who have pre-registere
+ d and been accepted on https://tartanhacks.com/. Starting at 4:30pm\, we wi
+ ll be letting in hackers off of the waitlist.
+LAST-MODIFIED:20170121T202151Z
+LOCATION:CUC McConomy
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Check-in
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170210T220000Z
+DTEND:20170210T230000Z
+DTSTAMP:20200617T200304Z
+UID:21op26np1i0jdac0ttd8cvb6b8@google.com
+CREATED:20170121T202220Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T202220Z
+LOCATION:CUC McConomy
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Opening Ceremony
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170210T230000Z
+DTEND:20170211T000000Z
+DTSTAMP:20200617T200304Z
+UID:7eqe9t9g85du0813spfb0ffokg@google.com
+CREATED:20170121T202315Z
+DESCRIPTION:Come grab dinner before you start hacking!
+LAST-MODIFIED:20170121T202315Z
+LOCATION:CUC Rangos
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T050000Z
+DTEND:20170211T060000Z
+DTSTAMP:20200617T200304Z
+UID:29a7id288kesqtnvp9ckdm5mjc@google.com
+CREATED:20170121T202341Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T202341Z
+LOCATION:CUC Rangos
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Midnight Snack
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T133000Z
+DTEND:20170211T143000Z
+DTSTAMP:20200617T200304Z
+UID:2oagrs6cqs4iu1h5hp3soecpvo@google.com
+CREATED:20170121T202419Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T202435Z
+LOCATION:CUC Rangos
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Breakfast
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T170000Z
+DTEND:20170211T180000Z
+DTSTAMP:20200617T200304Z
+UID:4fsap16el4fd8o6q52jnol44t0@google.com
+CREATED:20170121T202456Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T202456Z
+LOCATION:CUC Rangos
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Lunch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T220000Z
+DTEND:20170212T000000Z
+DTSTAMP:20200617T200304Z
+UID:5uovj4khnhrs902ag8juo7tqq8@google.com
+CREATED:20170121T202536Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T202536Z
+LOCATION:CUC Rangos
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Exposition
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170212T003000Z
+DTEND:20170212T013000Z
+DTSTAMP:20200617T200304Z
+UID:rpfn77q27327dvpatkofp2ramg@google.com
+CREATED:20170121T202557Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T202557Z
+LOCATION:CUC McConomy
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Closing Ceremony
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170210T210000Z
+DTEND:20170212T013000Z
+DTSTAMP:20200617T200304Z
+UID:vel9mbuqve84mm6dron0nc3pp4@google.com
+CREATED:20170121T202634Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T202634Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170127T220000Z
+DTEND:20170127T230000Z
+DTSTAMP:20200617T200304Z
+UID:bn6egjd98jsthfh0sok07b1ibk@google.com
+CREATED:20170121T201949Z
+DESCRIPTION:
+LAST-MODIFIED:20170121T202709Z
+LOCATION:https://tartanhacks.com/
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Registration for TartanHacks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170209T233000Z
+DTEND:20170210T003000Z
+DTSTAMP:20200617T200304Z
+UID:53pjf3mgke9g3nal0o75jbpbrg@google.com
+CREATED:20170204T184253Z
+DESCRIPTION:* TartanHacks logistics\n* Free food\n* Discussing how to make 
+ mentoring fun for hackers and you
+LAST-MODIFIED:20170210T000630Z
+LOCATION:DH 1211 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Mentor Meeting
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:78D75A30-6AC9-4C85-A571-271ED27D8C63
+UID:78D75A30-6AC9-4C85-A571-271ED27D8C63
+ACKNOWLEDGED:20170210T000627Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170125T163000
+DTEND;TZID=America/New_York:20170125T180000
+EXDATE;TZID=America/New_York:20170222T163000
+EXDATE;TZID=America/New_York:20170308T163000
+EXDATE;TZID=America/New_York:20170315T163000
+RRULE:FREQ=WEEKLY;UNTIL=20170503T203000Z;BYDAY=WE
+EXDATE;TZID=America/New_York:20170419T163000
+DTSTAMP:20200617T200304Z
+UID:aii4gu1e896uufojtimkr0e7eg@google.com
+CREATED:20170121T202803Z
+DESCRIPTION:
+LAST-MODIFIED:20170301T212039Z
+LOCATION:GHC 4101
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs General Body Meeting
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170301T163000
+DTEND;TZID=America/New_York:20170301T180000
+DTSTAMP:20200617T200304Z
+UID:aii4gu1e896uufojtimkr0e7eg@google.com
+RECURRENCE-ID;TZID=America/New_York:20170301T163000
+CREATED:20170121T202803Z
+DESCRIPTION:
+LAST-MODIFIED:20170301T212628Z
+LOCATION:GHC 4101
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Elections!
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:9949D6CE-0CB9-4612-9CA0-6CA5A2C678D2
+UID:9949D6CE-0CB9-4612-9CA0-6CA5A2C678D2
+ACKNOWLEDGED:20170301T212627Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170831T210000Z
+DTEND:20170831T220000Z
+DTSTAMP:20200617T200304Z
+UID:7g5puspgrb1q6cvmk06qtofnu6@google.com
+CREATED:20170830T172037Z
+DESCRIPTION:Welcome back! It's the first meeting of the year :)
+LAST-MODIFIED:20170830T172037Z
+LOCATION:GHC 9115
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20170907T163000
+DTEND;TZID=America/New_York:20170907T173000
+RRULE:FREQ=WEEKLY;UNTIL=20171215T045959Z;BYDAY=TH
+EXDATE;TZID=America/New_York:20171123T163000
+EXDATE;TZID=America/New_York:20171214T163000
+DTSTAMP:20200617T200304Z
+UID:7ev8uu1qv9sk5q2d5nfk1i7kou@google.com
+CREATED:20170901T015818Z
+DESCRIPTION:
+LAST-MODIFIED:20170901T015905Z
+LOCATION:GHC 6121
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs General Body Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171019T170000
+DTEND;TZID=America/New_York:20171019T180000
+DTSTAMP:20200617T200304Z
+UID:7ev8uu1qv9sk5q2d5nfk1i7kou@google.com
+RECURRENCE-ID;TZID=America/New_York:20171019T163000
+CREATED:20170901T015818Z
+DESCRIPTION:
+LAST-MODIFIED:20170901T020333Z
+LOCATION:GHC 6501
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs General Body Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170906T203000Z
+DTEND:20170906T223000Z
+DTSTAMP:20200617T200304Z
+UID:7n1dibfb8em0d2judqcf4dcpdh@google.com
+CREATED:20170905T020308Z
+DESCRIPTION:
+LAST-MODIFIED:20170905T020308Z
+LOCATION:College of Fine Arts Lawn\, Pittsburgh\, PA 15213\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Activities Fair
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170909T180000Z
+DTEND:20170909T200000Z
+DTSTAMP:20200617T200304Z
+UID:6lj7hrgf9cq5p7uenuglq0t9k3@google.com
+CREATED:20170909T002320Z
+DESCRIPTION:
+LAST-MODIFIED:20170909T002320Z
+LOCATION:Wean 5310
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170916T180000Z
+DTEND:20170916T200000Z
+DTSTAMP:20200617T200304Z
+UID:7br9ffg4log1vmha1kmort2cn1@google.com
+CREATED:20170917T172114Z
+DESCRIPTION:
+LAST-MODIFIED:20170917T172114Z
+LOCATION:Wean 5310
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170923T180000Z
+DTEND:20170923T200000Z
+DTSTAMP:20200617T200304Z
+UID:3k1k7cls60k2m2pielg3qd9sn4@google.com
+CREATED:20170917T172239Z
+DESCRIPTION:
+LAST-MODIFIED:20170917T172239Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T180000Z
+DTEND:20170930T200000Z
+DTSTAMP:20200617T200304Z
+UID:1lue7vg15qttt9vr3r49tlspof@google.com
+CREATED:20170927T210234Z
+DESCRIPTION:
+LAST-MODIFIED:20170927T210234Z
+LOCATION:Wean 5310
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171007T180000Z
+DTEND:20171007T200000Z
+DTSTAMP:20200617T200304Z
+UID:760qht4moqrvolc53lkfhodvva@google.com
+CREATED:20171002T205836Z
+DESCRIPTION:
+LAST-MODIFIED:20171002T205846Z
+LOCATION:Wean 5310
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171028T140000
+DTEND;TZID=America/New_York:20171028T160000
+RRULE:FREQ=WEEKLY;UNTIL=20171203T045959Z;BYDAY=SA
+EXDATE;TZID=America/New_York:20171104T140000
+EXDATE;TZID=America/New_York:20171125T140000
+DTSTAMP:20200617T200304Z
+UID:4c1qv54fb593cpqqoiukmhcovr@google.com
+CREATED:20171023T173630Z
+DESCRIPTION:
+LAST-MODIFIED:20171023T173656Z
+LOCATION:Wean 5310
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171028T130000
+DTEND;TZID=America/New_York:20171028T140000
+RRULE:FREQ=WEEKLY;UNTIL=20171028T035959Z;BYDAY=SA
+DTSTAMP:20200617T200304Z
+UID:0hs27nqp116saufd9vrj5l0jbs@google.com
+CREATED:20171024T175124Z
+DESCRIPTION:
+LAST-MODIFIED:20171024T175455Z
+LOCATION:WEH - 5310
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Planning Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171104T173000Z
+DTEND:20171105T000000Z
+DTSTAMP:20200617T200304Z
+UID:67lumr3rih4g792hjt52bonvpb@google.com
+CREATED:20171030T185440Z
+DESCRIPTION:Check out our website here: https://scottylabs.org/wdw/\nRegist
+ er here: https://scottylabs.org/wdw/register
+LAST-MODIFIED:20171030T185613Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Web Dev Weekend
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171105T183000Z
+DTEND:20171106T010000Z
+DTSTAMP:20200617T200304Z
+UID:649nbcitf082r1hkm38d5n8a7k@google.com
+CREATED:20171030T185836Z
+DESCRIPTION:Check out our website here: https://scottylabs.org/wdw/\nRegist
+ er here: https://scottylabs.org/wdw/register
+LAST-MODIFIED:20171030T185836Z
+LOCATION:WEH 5201 Mac Cluster
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Web Dev Weekend
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161106T200000Z
+DTEND:20161106T213000Z
+DTSTAMP:20200617T200304Z
+UID:21d4s2urm7t1nn498fc8ovcllg@google.com
+CREATED:20161008T173609Z
+DESCRIPTION:
+LAST-MODIFIED:20171118T234127Z
+LOCATION:WEH 5201 (Wean Mac Cluster)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:WebDevWeekend: Talk 6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161106T233000Z
+DTEND:20161107T010000Z
+DTSTAMP:20200617T200304Z
+UID:5dn05gfeppr1v3h0bs74mks0i8@google.com
+CREATED:20161008T173732Z
+DESCRIPTION:
+LAST-MODIFIED:20171118T234127Z
+LOCATION:WEH 5201 (Wean Mac Cluster)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:WebDevWeekend: Talk 8
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161106T213000Z
+DTEND:20161106T230000Z
+DTSTAMP:20200617T200304Z
+UID:ei9nap8p5dtsikj1jn1ii46ofc@google.com
+CREATED:20161008T173637Z
+DESCRIPTION:
+LAST-MODIFIED:20171118T234127Z
+LOCATION:WEH 5201 (Wean Mac Cluster)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:WebDevWeekend: Talk 7
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161106T183000Z
+DTEND:20161106T200000Z
+DTSTAMP:20200617T200304Z
+UID:eir856grcauuihe44i3tnkah6g@google.com
+CREATED:20161008T173545Z
+DESCRIPTION:
+LAST-MODIFIED:20171118T234127Z
+LOCATION:WEH 5201 (Wean Mac Cluster)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:WebDevWeekend: Talk 5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171202T130000
+DTEND;TZID=America/New_York:20171202T140000
+DTSTAMP:20200617T200304Z
+UID:0hs27nqp116saufd9vrj5l0jbs_R20171028T170000@google.com
+RECURRENCE-ID;TZID=America/New_York:20171202T130000
+CREATED:20171024T175124Z
+DESCRIPTION:
+LAST-MODIFIED:20171202T180923Z
+LOCATION:Cohon University Center Danforth Lounge
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Planning Meeting
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:BA1C72D3-F42E-4C6B-952B-D5173771B381
+UID:BA1C72D3-F42E-4C6B-952B-D5173771B381
+ACKNOWLEDGED:20171202T180915Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20171028T130000
+DTEND;TZID=America/New_York:20171028T140000
+RRULE:FREQ=WEEKLY;UNTIL=20171210T045959Z;BYDAY=SA
+EXDATE;TZID=America/New_York:20171104T130000
+EXDATE;TZID=America/New_York:20171125T130000
+DTSTAMP:20200617T200304Z
+UID:0hs27nqp116saufd9vrj5l0jbs_R20171028T170000@google.com
+CREATED:20171024T175124Z
+DESCRIPTION:
+LAST-MODIFIED:20171209T175401Z
+LOCATION:Wean 5310
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Planning Meeting
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+X-WR-ALARMUID:13537404-A1BF-4935-8932-5993B7F968A6
+UID:13537404-A1BF-4935-8932-5993B7F968A6
+ACKNOWLEDGED:20171209T175342Z
+X-APPLE-DEFAULT-ALARM:TRUE
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180120T130000
+DTEND;TZID=America/New_York:20180120T140000
+RRULE:FREQ=WEEKLY;UNTIL=20180204T045959Z;BYDAY=SA
+EXDATE;TZID=America/New_York:20180127T130000
+EXDATE;TZID=America/New_York:20180203T130000
+DTSTAMP:20200617T200304Z
+UID:1upfqcerac2qoearv6g9smrc51@google.com
+CREATED:20180116T154141Z
+DESCRIPTION:
+LAST-MODIFIED:20180116T154327Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Planning Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180120T140000
+DTEND;TZID=America/New_York:20180120T160000
+RRULE:FREQ=WEEKLY;UNTIL=20180120T045959Z;BYDAY=SA
+DTSTAMP:20200617T200304Z
+UID:4lrbbr5hmb86mdae89ele4ohmn@google.com
+CREATED:20180116T154158Z
+DESCRIPTION:
+LAST-MODIFIED:20180120T140549Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180120T140000
+DTEND;TZID=America/New_York:20180120T160000
+RRULE:FREQ=WEEKLY;UNTIL=20180506T035959Z;BYDAY=SA
+EXDATE;TZID=America/New_York:20180127T140000
+EXDATE;TZID=America/New_York:20180203T140000
+EXDATE;TZID=America/New_York:20180210T140000
+EXDATE;TZID=America/New_York:20180217T140000
+EXDATE;TZID=America/New_York:20180224T140000
+EXDATE;TZID=America/New_York:20180310T140000
+EXDATE;TZID=America/New_York:20180303T140000
+EXDATE;TZID=America/New_York:20180317T140000
+EXDATE;TZID=America/New_York:20180324T140000
+EXDATE;TZID=America/New_York:20180505T140000
+EXDATE;TZID=America/New_York:20180421T140000
+DTSTAMP:20200617T200304Z
+UID:4lrbbr5hmb86mdae89ele4ohmn_R20180120T190000@google.com
+CREATED:20180116T154158Z
+DESCRIPTION:
+LAST-MODIFIED:20180120T140549Z
+LOCATION:Wean 5310
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180127T150000
+DTEND;TZID=America/New_York:20180127T200000
+RRULE:FREQ=WEEKLY;UNTIL=20180205T045959Z;BYDAY=SU,SA
+DTSTAMP:20200617T200304Z
+UID:4hn66e5ddmci72s6qrnbkd9409@google.com
+CREATED:20180122T214102Z
+DESCRIPTION:
+LAST-MODIFIED:20180122T214102Z
+LOCATION:Wean Mac Cluster 5201
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crash Course
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180209T210000Z
+DTEND:20180210T050000Z
+DTSTAMP:20200617T200304Z
+UID:027o9n3jbnplpat75okgoef0ru@google.com
+CREATED:20180122T214413Z
+DESCRIPTION:
+LAST-MODIFIED:20180122T214413Z
+LOCATION:CUC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180210T050000Z
+DTEND:20180211T020000Z
+DTSTAMP:20200617T200304Z
+UID:1b6jhu596p4m3orvnqo8fmokqd@google.com
+CREATED:20180122T214445Z
+DESCRIPTION:
+LAST-MODIFIED:20180122T214457Z
+LOCATION:CUC
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TartanHacks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180117T173000
+DTEND;TZID=America/New_York:20180117T183000
+EXDATE;TZID=America/New_York:20180221T173000
+EXDATE;TZID=America/New_York:20180307T173000
+EXDATE;TZID=America/New_York:20180314T173000
+EXDATE;TZID=America/New_York:20180418T173000
+EXDATE;TZID=America/New_York:20180509T173000
+RRULE:FREQ=WEEKLY;UNTIL=20180510T035959Z;BYDAY=WE
+DTSTAMP:20200617T200304Z
+UID:5dpbothcg5sgar8oi6q965mksa@google.com
+CREATED:20180116T154042Z
+DESCRIPTION:
+LAST-MODIFIED:20180416T182021Z
+LOCATION:GHC - 7501
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Weekly GBM
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180831T210000Z
+DTEND:20180831T220000Z
+DTSTAMP:20200617T200304Z
+UID:35vissciadka8k3il6ac2r89im@google.com
+CREATED:20180827T220140Z
+DESCRIPTION:
+LAST-MODIFIED:20180827T220140Z
+LOCATION:CUC McKenna
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180912T163000
+DTEND;TZID=America/New_York:20180912T173000
+DTSTAMP:20200617T200304Z
+UID:5s21vge8mrcieedgb283n3imjg@google.com
+RECURRENCE-ID;TZID=America/New_York:20180912T163000
+CREATED:20180827T004301Z
+DESCRIPTION:
+LAST-MODIFIED:20180828T173912Z
+LOCATION:GHC 9115
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180905T203000Z
+DTEND:20180905T223000Z
+DTSTAMP:20200617T200304Z
+UID:2uch01hms0oo4696te2m7ebb5q@google.com
+CREATED:20180824T221347Z
+DESCRIPTION:
+LAST-MODIFIED:20180904T195112Z
+LOCATION:Rangos Table 237
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:The Fair
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180915T180000Z
+DTEND:20180915T200000Z
+DTSTAMP:20200617T200304Z
+UID:2j6urbqvq7hbpl5dl4296bk3ms@google.com
+CREATED:20180906T234231Z
+DESCRIPTION:
+LAST-MODIFIED:20180907T200418Z
+LOCATION:Wean 5415
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181103T170000Z
+DTEND:20181104T000000Z
+DTSTAMP:20200617T200304Z
+UID:0olo5o7h6etchr8oi0gahbrg1k@google.com
+CREATED:20180918T150709Z
+DESCRIPTION:
+LAST-MODIFIED:20180918T150718Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Web Dev Weekend
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181104T180000Z
+DTEND:20181105T010000Z
+DTSTAMP:20200617T200304Z
+UID:1at4au8ku853tppiuspp19uieo@google.com
+CREATED:20180918T150733Z
+DESCRIPTION:
+LAST-MODIFIED:20180918T150733Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Web Dev Weekend
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180922T140000
+DTEND;TZID=America/New_York:20180922T160000
+RRULE:FREQ=WEEKLY;UNTIL=20181209T045959Z;BYDAY=SA
+EXDATE;TZID=America/New_York:20181103T140000
+EXDATE;TZID=America/New_York:20181124T140000
+DTSTAMP:20200617T200304Z
+UID:4hshku84frefcq7aemc2rfo0ph@google.com
+CREATED:20180919T173224Z
+DESCRIPTION:
+LAST-MODIFIED:20180919T173225Z
+LOCATION:Porter Hall A18B
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180912T163000
+DTEND;TZID=America/New_York:20180912T173000
+RRULE:FREQ=WEEKLY;UNTIL=20180926T035959Z;BYDAY=WE
+DTSTAMP:20200617T200304Z
+UID:5s21vge8mrcieedgb283n3imjg@google.com
+CREATED:20180827T004301Z
+DESCRIPTION:
+LAST-MODIFIED:20180920T205057Z
+LOCATION:GHC 8102
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181003T163000
+DTEND;TZID=America/New_York:20181003T173000
+DTSTAMP:20200617T200304Z
+UID:5s21vge8mrcieedgb283n3imjg_R20180926T203000@google.com
+RECURRENCE-ID;TZID=America/New_York:20181003T163000
+CREATED:20180827T004301Z
+DESCRIPTION:
+LAST-MODIFIED:20180920T205057Z
+LOCATION:GHC 9115
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181010T163000
+DTEND;TZID=America/New_York:20181010T173000
+DTSTAMP:20200617T200304Z
+UID:5s21vge8mrcieedgb283n3imjg_R20180926T203000@google.com
+RECURRENCE-ID;TZID=America/New_York:20181010T163000
+CREATED:20180827T004301Z
+DESCRIPTION:
+LAST-MODIFIED:20180920T205057Z
+LOCATION:GHC 9115
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181031T163000
+DTEND;TZID=America/New_York:20181031T173000
+DTSTAMP:20200617T200304Z
+UID:5s21vge8mrcieedgb283n3imjg_R20180926T203000@google.com
+RECURRENCE-ID;TZID=America/New_York:20181031T163000
+CREATED:20180827T004301Z
+DESCRIPTION:
+LAST-MODIFIED:20180920T205057Z
+LOCATION:GHC 9115
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181107T163000
+DTEND;TZID=America/New_York:20181107T173000
+DTSTAMP:20200617T200304Z
+UID:5s21vge8mrcieedgb283n3imjg_R20180926T203000@google.com
+RECURRENCE-ID;TZID=America/New_York:20181107T163000
+CREATED:20180827T004301Z
+DESCRIPTION:
+LAST-MODIFIED:20180920T205057Z
+LOCATION:GHC 9115
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20180926T163000
+DTEND;TZID=America/New_York:20180926T173000
+RRULE:FREQ=WEEKLY;UNTIL=20181206T045959Z;BYDAY=WE
+EXDATE;TZID=America/New_York:20181121T163000
+DTSTAMP:20200617T200304Z
+UID:5s21vge8mrcieedgb283n3imjg_R20180926T203000@google.com
+CREATED:20180827T004301Z
+DESCRIPTION:
+LAST-MODIFIED:20180920T205057Z
+LOCATION:GHC 9115
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181020T140000
+DTEND;TZID=America/New_York:20181020T160000
+DTSTAMP:20200617T200304Z
+UID:4hshku84frefcq7aemc2rfo0ph@google.com
+RECURRENCE-ID;TZID=America/New_York:20181020T140000
+CREATED:20180919T173224Z
+DESCRIPTION:
+LAST-MODIFIED:20181017T140924Z
+LOCATION:Baker Hall 235A
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181201T140000
+DTEND;TZID=America/New_York:20181201T160000
+DTSTAMP:20200617T200304Z
+UID:4hshku84frefcq7aemc2rfo0ph@google.com
+RECURRENCE-ID;TZID=America/New_York:20181201T140000
+CREATED:20180919T173224Z
+DESCRIPTION:
+LAST-MODIFIED:20181114T163409Z
+LOCATION:Wean Hall 4709
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181114
+DTEND;VALUE=DATE:20181115
+RRULE:FREQ=YEARLY
+DTSTAMP:20200617T200304Z
+UID:7mut5r2g8gj9vfp9f0h7rsv5co@google.com
+CREATED:20181115T024120Z
+DESCRIPTION:
+LAST-MODIFIED:20181115T024120Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Founding Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20181208T140000
+DTEND;TZID=America/New_York:20181208T160000
+DTSTAMP:20200617T200304Z
+UID:4hshku84frefcq7aemc2rfo0ph@google.com
+RECURRENCE-ID;TZID=America/New_York:20181208T140000
+CREATED:20180919T173224Z
+DESCRIPTION:
+LAST-MODIFIED:20181204T180242Z
+LOCATION:DH 2302
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190119T140000
+DTEND;TZID=America/New_York:20190119T160000
+RRULE:FREQ=WEEKLY;UNTIL=20190428T035959Z;BYDAY=SA
+EXDATE;TZID=America/New_York:20190316T140000
+EXDATE;TZID=America/New_York:20190209T140000
+EXDATE;TZID=America/New_York:20190309T140000
+EXDATE;TZID=America/New_York:20190216T140000
+EXDATE;TZID=America/New_York:20190302T140000
+EXDATE;TZID=America/New_York:20190413T140000
+EXDATE;TZID=America/New_York:20190420T140000
+DTSTAMP:20200617T200304Z
+UID:09edhj3bvcesfh81d3hbo34o61@google.com
+CREATED:20190115T170157Z
+DESCRIPTION:
+LAST-MODIFIED:20190115T170157Z
+LOCATION:DH 1209
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190122T213000Z
+DTEND:20190122T223000Z
+DTSTAMP:20200617T200304Z
+UID:6anksvqj3e465obvhheq7s2do8@google.com
+CREATED:20190117T161556Z
+DESCRIPTION:
+LAST-MODIFIED:20190117T161556Z
+LOCATION:DH 1209
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs GBM
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190121T173000
+DTEND;TZID=America/New_York:20190121T183000
+RRULE:FREQ=WEEKLY;UNTIL=20190430T035959Z;BYDAY=MO
+EXDATE;TZID=America/New_York:20190121T173000
+EXDATE;TZID=America/New_York:20190311T173000
+DTSTAMP:20200617T200304Z
+UID:56rsaodptthre3th7du5064udu@google.com
+CREATED:20190117T151336Z
+DESCRIPTION:
+LAST-MODIFIED:20190118T031735Z
+LOCATION:GHC 6002
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs GBM
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190304T173000
+DTEND;TZID=America/New_York:20190304T183000
+DTSTAMP:20200617T200304Z
+UID:56rsaodptthre3th7du5064udu@google.com
+RECURRENCE-ID;TZID=America/New_York:20190304T173000
+CREATED:20190117T151336Z
+DESCRIPTION:
+LAST-MODIFIED:20190118T031754Z
+LOCATION:GHC 8115
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs GBM
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190201T213000Z
+DTEND:20190202T020000Z
+DTSTAMP:20200617T200304Z
+UID:08qpq28lom8h3vl8377upm05pq@google.com
+CREATED:20190113T004347Z
+DESCRIPTION:
+LAST-MODIFIED:20190131T220923Z
+LOCATION:Wean 5201 (Mac Clusters)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CrashCourse Day 1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190202T200000Z
+DTEND:20190203T020000Z
+DTSTAMP:20200617T200304Z
+UID:6rhjc61dj018ni91f1u02qeh55@google.com
+CREATED:20190130T235821Z
+DESCRIPTION:
+LAST-MODIFIED:20190131T220942Z
+LOCATION:CYH 100A (Mac Clusters)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CrashCourse Day 2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190210
+DTSTAMP:20200617T200304Z
+UID:2uk4ttb59fmne4pk91oe6b29ma@google.com
+CREATED:20190113T004357Z
+DESCRIPTION:
+LAST-MODIFIED:20190208T055428Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks 2019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:DF517193-9A11-44FD-AF5D-0DE3D495B369
+UID:DF517193-9A11-44FD-AF5D-0DE3D495B369
+ATTACH;VALUE=URI:Basso
+X-APPLE-DEFAULT-ALARM:TRUE
+ACKNOWLEDGED:20190208T055403Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190904T203000Z
+DTEND:20190904T223000Z
+DTSTAMP:20200617T200304Z
+UID:1mr9l0fm6o19rvdp1q1bfb7vc0@google.com
+CREATED:20190827T195255Z
+DESCRIPTION:
+LAST-MODIFIED:20190827T195255Z
+LOCATION:The Cut\, 5000 Forbes Ave\, Pittsburgh\, PA 15213\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Fair
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190907T140000
+DTEND;TZID=America/New_York:20190907T160000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20191209T045959Z;BYDAY=SA
+EXDATE;TZID=America/New_York:20190907T140000
+EXDATE;TZID=America/New_York:20191026T140000
+EXDATE;TZID=America/New_York:20191130T140000
+DTSTAMP:20200617T200304Z
+UID:0a4hmppo9m9qcu7omkag61d142@google.com
+CREATED:20190829T193011Z
+DESCRIPTION:
+LAST-MODIFIED:20190829T193011Z
+LOCATION:GHC 4301 & GHC 4215
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs: Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190914T103000
+DTEND;TZID=America/New_York:20190914T113000
+DTSTAMP:20200617T200304Z
+UID:0a4hmppo9m9qcu7omkag61d142@google.com
+RECURRENCE-ID;TZID=America/New_York:20190914T140000
+CREATED:20190829T193011Z
+DESCRIPTION:ScottyLabs presents How to Win at Career Fairs
+LAST-MODIFIED:20190910T191425Z
+LOCATION:GHC 4401
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs: Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190829T163000
+DTEND;TZID=America/New_York:20190829T173000
+EXDATE;TZID=America/New_York:20191128T163000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20191207T000000Z;BYDAY=TH
+DTSTAMP:20200617T200304Z
+UID:2u7nc9sheg3ok9s5ggb419miv6@google.com
+CREATED:20190809T075629Z
+DESCRIPTION:
+LAST-MODIFIED:20191007T041607Z
+LOCATION:GHC 8115
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs: Weekly GBM
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20190905T163000
+DTEND;TZID=America/New_York:20190905T173000
+DTSTAMP:20200617T200304Z
+UID:2u7nc9sheg3ok9s5ggb419miv6@google.com
+RECURRENCE-ID;TZID=America/New_York:20190905T163000
+CREATED:20190809T075629Z
+DESCRIPTION:
+LAST-MODIFIED:20191007T041607Z
+LOCATION:GHC 6th Floor Commons
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs: Weekly GBM
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20191012T130000
+DTEND;TZID=America/New_York:20191012T140000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20191209T045959Z;BYDAY=SA
+EXDATE;TZID=America/New_York:20191026T130000
+EXDATE;TZID=America/New_York:20191130T130000
+DTSTAMP:20200617T200304Z
+UID:0icun5m1r5110q3798iasi8r7n@google.com
+CREATED:20191009T011515Z
+DESCRIPTION:
+LAST-MODIFIED:20191009T011515Z
+LOCATION:GHC 4301
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs: Tech Committee Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191026T173000Z
+DTEND:20191026T233000Z
+DTSTAMP:20200617T200304Z
+UID:58c9ilg0vj3jdd8b2hotpn7pit@google.com
+CREATED:20191024T161909Z
+DESCRIPTION:
+LAST-MODIFIED:20191024T161909Z
+LOCATION:GHC 5 Clusters
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Web Dev Weekend: Day 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191025T173000Z
+DTEND:20191025T233000Z
+DTSTAMP:20200617T200304Z
+UID:2hkgh84k8l9chg1dql56usb19j@google.com
+CREATED:20191025T192939Z
+DESCRIPTION:
+LAST-MODIFIED:20191025T192959Z
+LOCATION:GHC 5 Clusters
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Web Dev Weekend: Day 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20191102T150000
+DTEND;TZID=America/New_York:20191102T160000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20191208T045959Z;BYDAY=SA
+EXDATE;TZID=America/New_York:20191130T150000
+DTSTAMP:20200617T200304Z
+UID:3etdjlej79d2upkil4f2fph97m@google.com
+CREATED:20191031T204313Z
+DESCRIPTION:
+LAST-MODIFIED:20191102T233640Z
+LOCATION:GHC 4215
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TartanHacks Planning Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200214T230000Z
+DTEND:20200216T020000Z
+DTSTAMP:20200617T200304Z
+UID:68ocupgtb9l2ncs16hvp0ag175@google.com
+CREATED:20200110T025412Z
+DESCRIPTION:
+LAST-MODIFIED:20200110T025412Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TartanHacks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200118T150000
+DTEND;TZID=America/New_York:20200118T160000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20200215T045959Z;BYDAY=SA
+DTSTAMP:20200617T200304Z
+UID:1mummscfntjg26j7ddefvddoo3@google.com
+CREATED:20200113T181930Z
+DESCRIPTION:
+LAST-MODIFIED:20200113T181931Z
+LOCATION:GHC 4211
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs: TartanHacks Planning Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200201T153000
+DTEND;TZID=America/New_York:20200201T163000
+DTSTAMP:20200617T200304Z
+UID:1mummscfntjg26j7ddefvddoo3@google.com
+RECURRENCE-ID;TZID=America/New_York:20200201T150000
+CREATED:20200113T181930Z
+DESCRIPTION:
+LAST-MODIFIED:20200130T172059Z
+LOCATION:GHC 4211
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs: TartanHacks Planning Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200213T233000Z
+DTEND:20200214T010000Z
+DTSTAMP:20200617T200304Z
+UID:3pm8asnr0fa8pa374skb0305bs@google.com
+CREATED:20200208T092807Z
+DESCRIPTION:
+LAST-MODIFIED:20200208T092807Z
+LOCATION:GHC 9115
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs: TartanHacks Planning Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200114T163000
+DTEND;TZID=America/New_York:20200114T173000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20200310T035959Z;BYDAY=TU
+DTSTAMP:20200617T200304Z
+UID:3n7m13np0fgsqahkmjnf4m97mq@google.com
+CREATED:20200113T181641Z
+DESCRIPTION:
+LAST-MODIFIED:20200315T221018Z
+LOCATION:GHC 9115
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs: Weekly GBM
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200118T140000
+DTEND;TZID=America/New_York:20200118T150000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20200314T035959Z;BYDAY=SA
+EXDATE;TZID=America/New_York:20200215T140000
+EXDATE;TZID=America/New_York:20200307T140000
+DTSTAMP:20200617T200304Z
+UID:53gmeaapiknn32kugup2bch0f6@google.com
+CREATED:20200113T181844Z
+DESCRIPTION:
+LAST-MODIFIED:20200315T221023Z
+LOCATION:GHC 4301
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs: Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200328T140000
+DTEND;TZID=America/New_York:20200328T153000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200510T035959Z;BYDAY=SA
+DTSTAMP:20200617T200304Z
+UID:7ic4huuhienr2khcddudas7pkt@google.com
+CREATED:20200326T015305Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nJoin Zoom Meeting\nhttps://cmu.zoom.us/j/360858710 (ID: 360858710)\n\
+ nJoin by phone\n(US) +1 346-248-7799\n\nJoin using SIP\n360858710@zoomcrc.c
+ om\n\nJoining instructions: https://www.google.com/url?q=https://applicatio
+ ns.zoom.us/addon/invitation/detail?meetingUuid%3D5mOR%252FUonQYGTxGRc%252F8
+ TGeg%253D%253D%26signature%3Dfdfadd42c67aa796653746ce7eee9873fe7fd63b1ade8b
+ 1a54543d9ba0227305&sa=D&usg=AOvVaw0TT38HyeD5eoWqkgd0d69g\n-::~:~::~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200326T034912Z
+LOCATION:https://cmu.zoom.us/j/360858710
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs: Weekly Tech Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200324T203000Z
+DTEND:20200324T213000Z
+DTSTAMP:20200617T200304Z
+UID:2o43afergub0pdhddg5p08meu8@google.com
+CREATED:20200323T164653Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nJoin Zoom Meeting\nhttps://cmu.zoom.us/j/736189905 (ID: 736189905)\n\
+ nJoin by phone\n(US) +1 312-626-6799\n\nJoin using SIP\n736189905@zoomcrc.c
+ om\n\nJoining instructions: https://www.google.com/url?q=https://applicatio
+ ns.zoom.us/addon/invitation/detail?meetingUuid%3D8tn9AZvXQKuxgscPQX5U4Q%253
+ D%253D%26signature%3D4f23e1a92b3bcb849656ece0829875c5de5f8479a689d502115a0c
+ 0c92c04d24&sa=D&usg=AOvVaw14b4tZBB1nWl9Z3XqzBThv\n-::~:~::~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200326T034927Z
+LOCATION:https://cmu.zoom.us/j/736189905
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs: Weekly GBM
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200402T010000Z
+DTEND:20200402T023000Z
+DTSTAMP:20200617T200304Z
+UID:49gaq44lq2euuoocdt3gu1jqoa@google.com
+CREATED:20200327T053812Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nJoin Zoom Meeting\nhttps://cmu.zoom.us/j/412886695 (ID: 412886695)\n\
+ nJoin by phone\n(US) +1 312-626-6799\n\nJoin using SIP\n412886695@zoomcrc.c
+ om\n\nJoining instructions: https://www.google.com/url?q=https://applicatio
+ ns.zoom.us/addon/invitation/detail?meetingUuid%3DhePNHOhlRRmhJaY8kaWs5w%253
+ D%253D%26signature%3Db5a10b57d418cf7b5dce197d6c84e763158dd91e782194f6e18335
+ e649b162d4&sa=D&usg=AOvVaw2zu8BOw_RpvGO7cr8S35GH\n-::~:~::~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200327T055842Z
+LOCATION:https://cmu.zoom.us/j/412886695
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs: Elections
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200407T163000
+DTEND;TZID=America/New_York:20200407T173000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20200504T035959Z;BYDAY=TU
+DTSTAMP:20200617T200304Z
+ORGANIZER;CN=cmu.scottylabs@gmail.com:mailto:cmu.scottylabs@gmail.com
+UID:47d60j1dmjf6lipu6f0rko32jl@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=cmu.sc
+ ottylabs@gmail.com;X-NUM-GUESTS=0:mailto:cmu.scottylabs@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sayanc
+ @andrew.cmu.edu;X-NUM-GUESTS=0:mailto:sayanc@andrew.cmu.edu
+CREATED:20200406T093230Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nJoin Zoom Meeting\nhttps://cmu.zoom.us/j/407234269 (ID: 407234269)\n\
+ nJoin by phone\n(US) +1 470-250-9358\n\nJoin using SIP\n407234269@zoomcrc.c
+ om\n\nJoining instructions: https://www.google.com/url?q=https://applicatio
+ ns.zoom.us/addon/invitation/detail?meetingUuid%3DNFoOFOK9Qwao%252BZDLS6eVzg
+ %253D%253D%26signature%3D778560b7e51e7cef2cc95a802140e60b49d50b4b5b3811adb2
+ 681008dbdb04e4&sa=D&usg=AOvVaw2cPv6Ci-dCKk0Qppw5bq_Z\n-::~:~::~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200406T184049Z
+LOCATION:https://cmu.zoom.us/j/407234269
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs: General Body Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200409T210000
+DTEND;TZID=America/New_York:20200409T220000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20200504T035959Z;BYDAY=TH
+DTSTAMP:20200617T200304Z
+UID:7pj8dbsa9eov8d5ct4v3l68fg9@google.com
+CREATED:20200406T093522Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nJoin Zoom Meeting\nhttps://cmu.zoom.us/j/987994071 (ID: 987994071)\n\
+ nJoin by phone\n(US) +1 929-205-6099\n\nJoin using SIP\n987994071@zoomcrc.c
+ om\n\nJoining instructions: https://www.google.com/url?q=https://applicatio
+ ns.zoom.us/addon/invitation/detail?meetingUuid%3Dzbe%252B864zRaubYl3wc09qjA
+ %253D%253D%26signature%3D7db3a726728057b28378f0b82afe388b792119e9e3f151eb3a
+ 1f376c7dfd58f2&sa=D&usg=AOvVaw1IBdTb3bq04MBpC-d6vIf-\n-::~:~::~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200406T184353Z
+LOCATION:https://cmu.zoom.us/j/987994071
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs: Watercooler Session
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200523T170000
+DTEND;TZID=America/New_York:20200523T180000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20200823T035959Z;INTERVAL=2;BYDAY=SA
+DTSTAMP:20200617T200304Z
+UID:4n1b27pkb5i24p9tlg6tjmmap1@google.com
+CREATED:20200520T185522Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nJoin Zoom Meeting\nhttps://cmu.zoom.us/j/98863977155 (ID: 98863977155
+ )\n\nJoin by phone\n(US) +1 312-626-6799\n\nJoin using SIP\n98863977155@zoo
+ mcrc.com\n\nJoining instructions: https://www.google.com/url?q=https://appl
+ ications.zoom.us/addon/invitation/detail?meetingUuid%3DI%252BRl7QlUQDemNUnn
+ OkMshQ%253D%253D%26signature%3De38c014e138967f226524896bf08da0ba2f27ed73469
+ 68c720ebd13c170e76fb&sa=D&usg=AOvVaw36-HPg-DwCqTc3ylg6Brce\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200520T185527Z
+LOCATION:https://cmu.zoom.us/j/98863977155
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs: Summer Meetings
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200613T140000
+DTEND;TZID=America/New_York:20200613T153000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200816T035959Z;INTERVAL=2;BYDAY=SA
+DTSTAMP:20200617T200304Z
+UID:01mq2s434ato06vtmp3av4qskp@google.com
+CREATED:20200611T155152Z
+DESCRIPTION:<br>Catch us on <a href="http://href.scottylabs.org/tech-zoom" 
+ id="ow875" __is_owner="true">Zoom</a>!
+LAST-MODIFIED:20200611T155407Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ScottyLabs: Tech Meeting & Hack Session
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

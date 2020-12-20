@@ -1,1 +1,0 @@
-pythonanywhere/DNS - on domain.com, CNAME records must have the name www and the content that PA asks for. TXT records are fine and can coexist, but no other www record can exist.
